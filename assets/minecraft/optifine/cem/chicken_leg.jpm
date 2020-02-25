@@ -1,0 +1,21 @@
+{
+  "comment": "Created by Maffhew",
+  "textureSize": [64,32],
+  "submodels": [
+    {
+      "id": "Leg",
+      "translate": [1.0,5.0,-1.0],
+      "boxes": [
+        {
+          "coordinates": [-1.0,-5.0,0.0,1.0,5.0,1.01],
+          "uvDown": [36,7,36,7],
+          "uvUp": [36,3,36,3],
+          "uvNorth": [36,3,36,7],
+          "uvSouth": [36,3,36,7],
+          "uvWest": [36,3,36,7],
+          "uvEast": [36,3,36,7]
+        }
+      ]
+    }
+  ]
+}

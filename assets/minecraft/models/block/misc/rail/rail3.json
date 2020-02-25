@@ -1,0 +1,59 @@
+{
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"textures": {
+		"rail": "block/rail3",
+		"particle": "block/rail"
+	},
+	"elements": [
+		{
+			"name": "Element",
+			"from": [0, 0, 0],
+			"to": [16, 0.25, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#rail"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#rail"}
+			}
+		},
+		{
+			"name": "Element",
+			"from": [2, 0, -0.25],
+			"to": [5, 1, 16.25],
+			"faces": {
+				"north": {"uv": [2, 0, 5, 1], "texture": "#rail"},
+				"east": {"uv": [4, 15, 5, 16], "texture": "#rail"},
+				"south": {"uv": [2, 15, 5, 16], "texture": "#rail"},
+				"west": {
+					"uv": [2, 15, 3, 16],
+					"texture": "#rail",
+					"rotation": 270
+				},
+				"up": {"uv": [2, 0, 5, 16], "texture": "#rail"},
+				"down": {"uv": [2, 0, 5, 16], "texture": "#rail"}
+			}
+		},
+		{
+			"name": "Element",
+			"from": [11, 0, -0.25],
+			"to": [14, 1, 16.25],
+			"faces": {
+				"north": {"uv": [11, 0, 14, 1], "texture": "#rail"},
+				"east": {
+					"uv": [13, 15, 14, 16],
+					"texture": "#rail",
+					"rotation": 270
+				},
+				"south": {
+					"uv": [11, 15, 14, 16],
+					"texture": "#rail"
+				},
+				"west": {
+					"uv": [11, 15, 12, 16],
+					"texture": "#rail"
+				},
+				"up": {"uv": [11, 0, 14, 16], "texture": "#rail"},
+				"down": {"uv": [11, 0, 14, 16], "texture": "#rail"}
+			}
+		}
+	],
+	"ambientocclusion": false
+}

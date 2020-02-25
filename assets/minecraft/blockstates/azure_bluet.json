@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [	
+            { "model": "block/foliage/flowers/azure", "weight": 10 },
+            { "model": "block/foliage/flowers/azure1", "weight": 5 }
+        ]
+    }
+}
+			

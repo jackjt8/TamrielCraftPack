@@ -1,0 +1,119 @@
+﻿Extra Blocks:
+══════════════════════════════════════════════	
+- Spruce Box: Spruce Planks double slab  
+
+- Jungle Crate: Jungle Planks double slab
+
+- Sandstone Bricks: Sandstone double slab  
+
+- Red Sandstone Bricks: Red Sandstone double slab  
+
+- Dirt Slab: Lower old wood slab (usage: /give @player minecraft:petrified_wood_slab)
+
+- Table: Upper old wood slab (usage: /give @player minecraft:petrified_wood_slab)
+
+- Cracked Stones: Silverfish infested blocks
+
+- Bonsai Tree: Flower pot with jungle sapling
+
+- Wine Bottle (Cactus Juice): Flower pot with cactus
+
+- Big Lantern: Beacon
+
+- Lantern: End Rod
+
+- Brazier: End Rod
+
+- Candelabra: Redstone comparator
+
+- Pebbles/Rocks: Stone buttons placed on ground
+
+- Hay Patch: Yellow carpet
+
+- Rope: Single birch fence
+
+- Iron Bell: Dragon Egg
+
+- Wooden Truss Supports: Hopper
+
+- Coin Pile: Gold pressure plate
+
+- Tudor Blocks: Light grey/Brown glazed terracotta
+
+- Mud: Brown concrete powder
+
+- Carved Wood: Brown concrete
+
+- Iron Cage: Light gray shulker
+
+- Egg Crate: Daylight sensor
+
+
+Optifine Blocks:
+══════════════════════════════════════════════	
+- Bee Hive: Dragon Egg in forest biomes
+
+- Paper Wall: White Glass in birch biomes
+
+- Sand Dunes: Snow Pile in sandy biomes
+
+- Bamboo: Reeds in birch biomes
+- Papyrus: Reeds in desert biomes
+- Cattail: Reeds in wet biomes
+
+- Basket: Cauldron in desert biomes
+- Barrel: Cauldron in hills biomes
+
+- Round Shield: Renamed Shield to "round shield" with anvil (place in item frame)
+- Wheel: Renamed Item Frame to "wheel" or "o" with anvil (place in item frame)
+- Mirror: Renamed Diamond to "mirror" with anvil (place in item frame)
+- Tanning Rack: Renamed Leather to "tanning rack" with anvil (place in item frame)
+
+
+Custom characters:
+══════════════════════════════════════════════	
+
+食 飠饣飡 飢 飣 飤饤 饥 飥 飦 飧 飨饦 饧 飩 飪 飫 飬 飭 飮 飯 飰 飱
+飲饨 饩 饪 饫 饬 饭 饮 飯 飳 飴 飵 飶 飷 飸 飹 飻 飼 飽 飾 飿饯 饰 饱 饲 饳 饴 飼 
+飺 餀 餁 餂 餃 餄 餆 餇 餈 餉 養 餋 餌 餍 餎 餏饵 饶 饷 饸 饹 饺 饻 饼
+餐 餑 餒 餓 餔 餕 餖 餗 餘 餙 餝饽 饾 饿 馀 馁 馂 餅 餚 餛 餜 餞 餟 餠
+餡 餢 餣 餤 餥 餦 餧 館 餩 館馃 馄 馅 馆 餪 餫 餬 餭 餮 餯 餰 餱 餲 餳
+餴 餵 餷馇 馈 馊 馋 餶 餸 餹 餺 餻 餼 餽 餾 餿 饀 饁 饂 饃馉 馌 馍 馎
+馏 馐 饄 饅 饆 饇 饈 饉馓 馔 饊 饋 饌 饍 饎 饏 饐 饑 饒 饓飙 飚 饔 饕 饖
+饗 饘 饙 饚 饛 饜 饝 饞 饟 饠 饡 饢		
+
+❤ ❥ 웃 유 ♋ ☮ ✌ ☏ ☢ ☠ ✔ ☑ ♚ ▲ ♪ ✈ ⌚ ¿
+♥ ❣ ♂ ♀ ☿ Ⓐ ✍ ✉ ☣ ☤ ✘ ☒ ♛ ▼ ♫ ⌘ ⌛ ¡
+♡ ღ ツ ☼ ☁ ❅ ♒ ✎ © ® ™ Σ ✪ ✯ ☭ ➳ ✞
+✿ ϟ ☃ ☂ ✄ ¢ € £ ∞ ✫ ★ ½ ☯ ✡ ☪
+
+♠ ♣ ♥ ♦
+
+https://unicode-table.com/en/
+
+Code Name         MOTD code
+═══════════════════════════
+§0	 Black	      \u00A70
+§1	 Dark Blue	  \u00A71
+§2	 Dark Green	  \u00A72
+§3	 Dark Aqua	  \u00A73
+§4	 Dark Red	  \u00A74
+§5	 Dark Purple  \u00A75
+§6	 Gold	      \u00A76
+§7	 Gray	      \u00A77
+§8	 Dark Gray	  \u00A78
+§9	 Blue	      \u00A79
+§a	 Green	      \u00A7a
+§b	 Aqua	      \u00A7b
+§c	 Red	      \u00A7c
+§d	 Light Purple \u00A7d
+§e	 Yellow	      \u00A7e
+§f	 White	      \u00A7f
+
+§k	 Obfuscated	  \u00A7k
+§l	 Bold	      \u00A7l
+§m	 Strike       \u00A7m
+§n	 Underline	  \u00A7n
+§o	 Italic	      \u00A7o
+§r	 Reset	      \u00A7r
+\n	 Extra line	  \n

@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [	
+            { "model": "block/red_mushroom", "weight": 10 },
+            { "model": "block/foliage/red_mushroom1", "weight": 2 },
+            { "model": "block/foliage/red_mushroom2", "weight": 2 },			
+            { "model": "block/foliage/red_mushroom3", "weight": 5 }
+        ]
+    }
+}
+			
