@@ -1,6 +1,34 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
+March 4, 2020
+v1.13.0 (Stable)
+
+BLOCKS
+-Adjusted quartz block side
+-Corrected stone brick stairs corner model not rendering
+-Fixed Podzol + snow rendering
+-Reverted coal_crate to coal_block
+-Reverted gold_block 1.13 textures to 1.12 variants
+-Changed "fixed" scale on block.json to ~1.99
+-Item Frame reduced to 4x4.
+
+ITEMS
+-Updated paintings
+-Reverted sign to 1.12 version.
+
+ENTITY
+-Replaced Phantoms with Cliff Racers (credits to Tripledee)
+-Changed "fixed" scale on leaves to ~1.99
+
+MISC
+-Updated moon phases
+
+Changed versioning from v1.3 to v1.13.0 to match Minecraft for easier compatibility identification.
+The patch portion of the semantic three-part version will not align with Minecraft's patches.
+
+══════════════════════════════════════════════
+TamrielPack
 February 18, 2020
 1.13 beta 8_experimental_2
 
