@@ -7,6 +7,9 @@ v1.13.1_beta1
 BLOCKS
 - Replaced dead sea pickle variants with Kwarm egg variants (credits to Tripledee)
 
+MISC
+- Trimmed MCPatcher folders and additional Junk not required
+
 ══════════════════════════════════════════════
 TamrielPack
 March 4, 2020
