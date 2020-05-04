@@ -1,6 +1,16 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
+May 4, 2020
+v1.13.1_b2
+
+MISC
+
+- Restored MCPatcher and merged with Optifine folder following https://github.com/sp614x/optifine/issues/1557
+
+══════════════════════════════════════════════
+
+TamrielPack
 March 4, 2020
 v1.13.1_beta1
 
