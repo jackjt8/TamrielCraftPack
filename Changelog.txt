@@ -1,6 +1,278 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
+May 18, 2020
+
+LANG
+- .lang no longer used, removing this file.
+- Trimmed language file down to only the changes we have made. (ie Cliff Racer, Kwama Egg) 
+
+MISC
+- bettergrassandleaves - Mod folder; Removed from GitHub Source
+
+!!!
+Updated to Excalibur v1.4 bringing support for Minecraft 1.14
+!!!
+
+MODEL changes
+	- block/foliage/red_mushroom(s) - are different?
+	- block/misc/rail/rail(s) - are different?
+	- block/wood/crafting_table(s) - Textures  side
+	- block/acacia_door - Different model used for door
+	- block/end_rod_down - switches from lantern to candle
+	
+TEXTURES changes
+block
+	- acacia_door_bottom & acacia_door_top
+	- rails
+	- birch_door
+	- birch_leave 
+	- chiseled_quartz_block 
+	- dark_oak_planks grain rotation
+	- fence_gate_dark_oak 
+	- green_glazed_terracotta 
+	- magenta_glazed_terracotta 
+	- nether_portal 
+	- observer 
+	- packed_ice 
+	- pink_glazed_terracotta 
+	- prismarine_bricks 
+	- purple_glazed_terracotta
+	- quartz_block
+	- red_mushroom_block
+	- red_sand rotated 45 degrees
+	- redstone_block
+	- sand rotated 45 degrees
+	- sandstone
+	- tnt
+	- tripwire
+	- water
+item
+	- acacia_door
+	- birch_door
+	- emerald !!!
+	- name_tag
+	- sea_pickle?
+	- spawn_egg
+	- spawn_egg_overlay
+misc
+	- enchanted_item_glint
+	- forcefield
+
+GITHUB
+	- Trimmed repo to just the changes we make over Excalibur.
+		This should make future Excalibur updates easier as we
+		would be able to simply overwrite Excalibur with our
+		changes. Rather than having to manually find all the
+		changes and moving them over.
+		
+~Trimmed file list.
+model
+	block
+		block.json
+		button_inventory.json
+		+coal_block.json
+		dead_sea_pickle.json
+		dragon_egg_fixed.json
+		four_dead_sea_pickles.json
+		item_frame.json
+		three_dead_sea_pickles.json
+		two_dead_sea_pickles.json
+	item
+		acacia_leaves.json
+		birch_leaves.json
+		dark_oak_leaves.json
+		generated.json
+		jungle_leaves.json
+		oak_leaves.json
+		shield.json
+		shield_blocking.json
+		shield_blockingx.json
+		spruce_leaves.json
+sounds
+	mobs
+		phantom/(cliff racer)
+		village/(muted)
+	step
+textures
+	block
+		birch_leaves.png
+		gold_block.png
+		leaves_birch_bl.png
+		leaves_birch_opaque.png
+	environment/(moon_phases & environment/moon_phases_ringless)
+	item
+		sea_pickle.png
+	paintings
+		paintings_kristoffer_zetterstrand.png
+
+
+══════════════════════════════════════════════			
+October 22, 2019		
+V[1.4]		
+
+NEW:
+Discuss Excalibur on Discord! https://discord.gg/qYZ9Pen
+
+1.14:
+-added signs
+-added wall models
+-added scaffolding
+-added lantern
+-added bell
+-added barrel
+-added campfire + particles
+-removed coal from unlit campfire
+-added new dyes
+-added foxes
+-added composter
+-added loom
+-added bamboo
+-added grindstone
+-added pillager
+-added trader
+-added smoker
+-added cornflower
+-added wither rose
+-added lily of the valley
+-added lectern
+-added stonecutter
+-added blast furnace
+-added cartography table
+-added sweet berry bushes + items
+-added fletching table
+-added smithing table
+-added temporary ravager 
+
+BLOCKS:
+-discovered fire
+-added kelp
+-added pink carpet CTM
+-added lime carpet CTM
+-removed sand (snow) layer from ocean, river, and beach biomes
+-adjusted banner
+-added smoke (nether cobwebs)
+-adjusted ladder 3D model
+-updated sandstone top
+-adjusted water opacity
+-adjusted tripwire string
+-updated brewing stand
+-updated sand and red sand
+-updated pumpkin/melon stems
+-added pumpkin 3D model
+-updated path block and added overlay
+-updated acacia door and model
+-updated birch door and added model
+-added vertical acacia plank CTM
+-updated large mushrooms
+-updated packed ice and added vertical CTM
+-added blue ice
+-removed dark oak variants
+-adjusted acacia fence
+-updated crop textures and added 3D models
+-adjusted crafting table
+-added dark oak pressure plate (chess board)
+-adjusted polished granite
+-adjusted cactus and added flowers
+-adjusted hopper texture
+-adjusted dirt colors
+-updated tallgrass
+-updated mossy cobblestone wall and added CTM
+-updated oak leaves
+-updated birch leaves
+-adjusted TNT
+-updated rails and models
+-added orange concrete CTM
+-adjusted observer
+-fixed cobweb CTM
+-updated inverted daylight sensor
+-updated prismarine blocks
+-updated redstone block
+-updated spruce trapdoors to match the door/planks
+-updated potatoes
+-added chandelier model (end rod)
+-added chest models (optifine CEM)
+-added farmland side textures
+-added polished andesite slabs
+-updated quartz blocks
+-added 3D mushroom models w/ variants
+-updated itemframe map
+-added green glazed terracotta
+-updated magenta, purple, pink glazed terracotta
+-removed red carpet model
+-added purple carpet CTM
+-added orange carpet CTM
+
+ITEMS:
+-adjusted saddle
+-added kelp
+-added beetroot
+-added trident
+-adjusted books
+-added written book
+-added filled map
+-updated spawn eggs
+-added debug stick texture
+-updated dragons breath
+-added turtle shell helmet and scute
+-lowered shield model
+-added fence models
+-updated emerald
+-added name tag
+-added suspicious stew
+
+MOBS:
+-updated chicken model (optifine)
+-added fish
+-added horse armor
+-added horse patterns
+-added sea turtle
+-added mooshroom variant
+-added squid model (optifine)
+-added baby chicken texture (optifine)
+-added biome specific bears (optifine)
+
+MISC:
+-added font	
+-optimized en_us lang file
+-removed unused models
+-updated enchantment glint
+-adjusted creative GUI
+-adjusted night sky
+-updated map icons
+-updated recipe book button
+-adjusted lightmap
+-adjusted colormaps (sky, water, fog, etc)
+-added xp bars
+-added nether portal animation
+-readded village sounds (HRMM)
+-removed banner patterns
+-adjusted GUIs
+-removed "generated" handheld item models
+-separated leaf models
+-updated particles
+-removed custom clouds texture from "/environment"
+-reduced portal sound volume
+-added empty armor icons
+
+
+BUG FIXES:
+-moved mcpatcher folder to optifine folder
+-fixed optifine custom biome property files
+-fixed general errors and warnings
+-fixed loading screen scaling
+-flipped rain textures
+-removed custom menu click sound
+-changed sounds from stereo to mono
+-fixed cullface issue on the bottom of birch fences
+-fixed stone brick slab models
+-fixed jungle fence UV
+-fixed z-fighting on bottom of iron bars
+-fixed z-fighting on leather items
+
+
+══════════════════════════════════════════════
+TamrielPack
 May 4, 2020
 v1.13.1_b2
 
@@ -31,7 +303,7 @@ BLOCKS
 -Fixed Podzol + snow rendering
 -Reverted coal_crate to coal_block
 -Reverted gold_block 1.13 textures to 1.12 variants
--Changed "fixed" scale on block.json to ~1.99
+- "fixed" scale on block.json to ~1.99
 -Item Frame reduced to 4x4.
 
 ITEMS
@@ -40,12 +312,12 @@ ITEMS
 
 ENTITY
 -Replaced Phantoms with Cliff Racers (credits to Tripledee)
--Changed "fixed" scale on leaves to ~1.99
+- "fixed" scale on leaves to ~1.99
 
 MISC
 -Updated moon phases
 
-Changed versioning from v1.3 to v1.13.0 to match Minecraft for easier compatibility identification.
+ versioning from v1.3 to v1.13.0 to match Minecraft for easier compatibility identification.
 The patch portion of the semantic three-part version will not align with Minecraft's patches.
 
 ══════════════════════════════════════════════
@@ -56,12 +328,12 @@ February 18, 2020
 Yeah... this is gonna be a while
 
 BLOCKS
--Changed "fixed" scale on block.json to ~1.99
+- "fixed" scale on block.json to ~1.99
 -Item Frame reduced to 4x4.
 -Reverted notint fix on birch_leaves - no_tint option is still available for switching.
 
 ITEMS
--Changed "fixed" scale on leaves to ~1.99
+- "fixed" scale on leaves to ~1.99
 
 ══════════════════════════════════════════════
 TamrielPack
