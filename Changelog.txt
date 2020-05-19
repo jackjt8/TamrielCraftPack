@@ -1,7 +1,21 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
+May 19, 2020
+v1.14_b2
+
+TEXTURE
+- Changed comparator "floor" texture to oak_planks rather than stone_slab_top
+- Reverted dark_oak_pressure_plate texture to be dark_oak_planks. plate_dark_oak (chess board) may be removed.
+- Reverted emerald.png to v1.13 version as it looks more like glass
+- Reverted tnt_side.png to v1.13 version
+- Reverted sign.png to v1.12/v1.13 version
+	Notes - This fix will break when we actually update to MC1.14+ but by this point we would be able to set text colours in the sign.
+
+══════════════════════════════════════════════
+TamrielPack
 May 18, 2020
+v1.14_b1
 
 LANG
 - .lang no longer used, removing this file.
