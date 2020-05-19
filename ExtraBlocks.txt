@@ -50,22 +50,22 @@
 
 - Nest: Dead horn coral fan
 
-
-Optifine Blocks:
-══════════════════════════════════════════════	
-- Orange Concrete with Sandstone Trim
-- Redstone Pillar: vertical stack of redstone block
-- Stone Pillar: vertical stack of chiseled stone brick
-- Natural Glowstone: Glowstone in nether biome
-- Bee Hive: Dragon Egg in forest biomes
-- Paper Wall: White Glass in birch biomes
-- Sand Dunes: Snow Pile in desert biomes
-- Smoke: Cobweb in nether biome
-- Bamboo: Reeds in birch biomes
-- Papyrus: Reeds in desert biomes
-- Cattail: Reeds in wet biomes
-- Basket: Cauldron in desert biomes
-- Barrel: Cauldron in hills biomes
+DISABLED
+	Optifine Blocks:
+	══════════════════════════════════════════════	
+	- Orange Concrete with Sandstone Trim
+	- Redstone Pillar: vertical stack of redstone block
+	- Stone Pillar: vertical stack of chiseled stone brick
+	- Natural Glowstone: Glowstone in nether biome
+	- Bee Hive: Dragon Egg in forest biomes
+	- Paper Wall: White Glass in birch biomes
+	- Sand Dunes: Snow Pile in desert biomes
+	- Smoke: Cobweb in nether biome
+	- Bamboo: Reeds in birch biomes
+	- Papyrus: Reeds in desert biomes
+	- Cattail: Reeds in wet biomes
+	- Basket: Cauldron in desert biomes
+	- Barrel: Cauldron in hills biomes
 
 Optifine CIT:
 ══════════════════════════════════════════════	
