@@ -2,6 +2,17 @@
 ══════════════════════════════════════════════
 TamrielPack
 May 19, 2020
+v1.14_b3
+
+LANG
+- Fixed language file not working.
+
+TODO
+z fighting on Shulker Boxes and Sea Pickles/Kwama Eggs
+
+══════════════════════════════════════════════
+TamrielPack
+May 19, 2020
 v1.14_b2
 
 TEXTURE
