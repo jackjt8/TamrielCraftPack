@@ -10,7 +10,8 @@ TEXTURE
 - Reverted emerald.png to v1.13 version as it looks more like glass
 - Reverted tnt_side.png to v1.13 version
 - Reverted sign.png to v1.12/v1.13 version
-	Notes - This fix will break when we actually update to MC1.14+ but by this point we would be able to set text colours in the sign.
+
+Notes - The fix to signs will break when we actually update to MC1.14+ but by this point we would be able to set text colours in the sign.
 
 ══════════════════════════════════════════════
 TamrielPack
