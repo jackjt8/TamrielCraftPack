@@ -1,11 +1,14 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
-May 19, 2020
+May 20, 2020
 v1.14_b3
 
 LANG
 - Fixed language file not working.
+
+Textures
+- Forgot to include Cliff Racer textures (readded phantom.png and phantom_eyes.png)
 
 TODO
 z fighting on Shulker Boxes and Sea Pickles/Kwama Eggs
