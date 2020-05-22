@@ -10,8 +10,14 @@ LANG
 Textures
 - Forgot to include Cliff Racer textures (readded phantom.png and phantom_eyes.png)
 
+Important!
+- If you are running with a Nvidia GPU and have VBOs and Render Regions set to ON, you will recieve OpenGL 1281 errors. Under Other, set Show GL Errors to OFF to hide these errors.
+
+Unfixable
+- z fighting on Shulker Boxes is not fixable due to Minecraft not support custom models.
+
 TODO
-z fighting on Shulker Boxes and Sea Pickles/Kwama Eggs
+z fighting on Kwama Eggs
 
 ══════════════════════════════════════════════
 TamrielPack
