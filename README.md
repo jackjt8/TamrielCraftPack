@@ -1,7 +1,7 @@
 # TamrielCraftPack
 TamrielCraft's Minecraft Resource Pack
 
-Release build instructions
+## Release build instructions
 
 1. Download and extract a copy of this Repo and Excalibur.
 
@@ -22,7 +22,11 @@ Release build instructions
 	/stone/stone_pillar/
 	```
 	
-	Redstone Pillar?
+## Common issues
+
+OpenGL Error 1281 - Generally causes by having VBOs, Render Regions, and Connected Textures (CTM) enabled while using a Nvidia GPU. If you experience this issue it is recommended that you disable OpenGL Errors in chat by:
+
+`Options > Video Settings > Other... > Show GL Errors: Off`
 	
 	
 	
