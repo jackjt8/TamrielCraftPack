@@ -50,6 +50,8 @@
 
 - Nest: Dead horn coral fan
 
+- Faucet/Barrel Tap: Tripwire Hook
+
 DISABLED
 	Optifine Blocks:
 	══════════════════════════════════════════════	

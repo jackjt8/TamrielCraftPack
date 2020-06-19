@@ -11,7 +11,7 @@ SERVER IP (MC Java 1.13.2): tamrielcraft.eu
 ## This repo
 This repo is where you can suggest changes to Tamrielcraft's resource pack which is based on Excalibur by Maffhew
 
-## Release build instructions
+## Build instructions
 
 1. Download and extract a copy of this Repo and Excalibur.
 
@@ -30,6 +30,16 @@ This repo is where you can suggest changes to Tamrielcraft's resource pack which
 	/random/glowstone/ ~maybe?
 	/stone/orange_concrete/
 	/stone/stone_pillar/
+	```
+(release) 4. Update `changelog.txt` and `pack.mcmeta`
+
+(release) 5. Package contents into .zip file ie:
+
+	```
+	tcp.zip
+		/assets/
+		Changelog.txt
+		etc...
 	```
 	
 ## Common issues
