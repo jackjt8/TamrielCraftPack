@@ -10,7 +10,7 @@
 
 - Dirt Slab: Lower old wood slab (usage: /give @player minecraft:petrified_wood_slab)
 
-- Table: Upper old wood slab (usage: /give @player minecraft:petrified_wood_slab)
+- Table: Upper old wood slab (usage: /give @player minecraft:petrified_oak_slab)
 
 - Cracked Stones: Silverfish infested blocks
 
@@ -18,11 +18,13 @@
 
 - Wine Bottle (Cactus Juice): Flower pot with cactus
 
-- Big Lantern: Beacon
+- Wither Rose Case: Flower pot with wither rose
 
-- Lantern: End Rod
+- Large Lantern: Beacon
 
 - Brazier: End Rod
+
+- Sideways Lantern: End Rod on wall
 
 - Candelabra: Redstone comparator
 
@@ -36,60 +38,49 @@
 
 - Wooden Truss Supports: Hopper
 
-- Coin Pile: Gold pressure plate
-
 - Tudor Blocks: Light grey/Brown glazed terracotta
 
 - Mud: Brown concrete powder
 
 - Carved Wood: Brown concrete
 
-- Iron Cage: Light gray shulker
+- Coin Pile/Chicken Feed: Gold pressure plate
 
-- Egg Crate: Daylight sensor
+- Chess/Checkers Board: Dark oak pressure plate
 
+- Nest: Dead horn coral fan
 
-Optifine Blocks:
+DISABLED
+	Optifine Blocks:
+	══════════════════════════════════════════════	
+	- Orange Concrete with Sandstone Trim
+	- Redstone Pillar: vertical stack of redstone block
+	- Stone Pillar: vertical stack of chiseled stone brick
+	- Natural Glowstone: Glowstone in nether biome
+	- Bee Hive: Dragon Egg in forest biomes
+	- Paper Wall: White Glass in birch biomes
+	- Sand Dunes: Snow Pile in desert biomes
+	- Smoke: Cobweb in nether biome
+	- Bamboo: Reeds in birch biomes
+	- Papyrus: Reeds in desert biomes
+	- Cattail: Reeds in wet biomes
+	- Basket: Cauldron in desert biomes
+	- Barrel: Cauldron in hills biomes
+
+Optifine CIT:
 ══════════════════════════════════════════════	
-- Bee Hive: Dragon Egg in forest biomes
-
-- Paper Wall: White Glass in birch biomes
-
-- Sand Dunes: Snow Pile in sandy biomes
-
-- Bamboo: Reeds in birch biomes
-- Papyrus: Reeds in desert biomes
-- Cattail: Reeds in wet biomes
-
-- Basket: Cauldron in desert biomes
-- Barrel: Cauldron in hills biomes
-
-- Round Shield: Renamed Shield to "round shield" with anvil (place in item frame)
-- Wheel: Renamed Item Frame to "wheel" or "o" with anvil (place in item frame)
-- Mirror: Renamed Diamond to "mirror" with anvil (place in item frame)
-- Tanning Rack: Renamed Leather to "tanning rack" with anvil (place in item frame)
+(items below are placed in item frame)
+- Round Shield: Renamed Shield to "round shield"
+- Wheel: Renamed Item Frame to "wheel" or "o"
+- Mirror: Renamed Diamond to "mirror"
+- Tanning Rack: Renamed Leather to "tanning rack"
+- Campfire: Renamed Coal to "campfire"
 
 
 Custom characters:
-══════════════════════════════════════════════	
-
-食 飠饣飡 飢 飣 飤饤 饥 飥 飦 飧 飨饦 饧 飩 飪 飫 飬 飭 飮 飯 飰 飱
-飲饨 饩 饪 饫 饬 饭 饮 飯 飳 飴 飵 飶 飷 飸 飹 飻 飼 飽 飾 飿饯 饰 饱 饲 饳 饴 飼 
-飺 餀 餁 餂 餃 餄 餆 餇 餈 餉 養 餋 餌 餍 餎 餏饵 饶 饷 饸 饹 饺 饻 饼
-餐 餑 餒 餓 餔 餕 餖 餗 餘 餙 餝饽 饾 饿 馀 馁 馂 餅 餚 餛 餜 餞 餟 餠
-餡 餢 餣 餤 餥 餦 餧 館 餩 館馃 馄 馅 馆 餪 餫 餬 餭 餮 餯 餰 餱 餲 餳
-餴 餵 餷馇 馈 馊 馋 餶 餸 餹 餺 餻 餼 餽 餾 餿 饀 饁 饂 饃馉 馌 馍 馎
-馏 馐 饄 饅 饆 饇 饈 饉馓 馔 饊 饋 饌 饍 饎 饏 饐 饑 饒 饓飙 飚 饔 饕 饖
-饗 饘 饙 饚 饛 饜 饝 饞 饟 饠 饡 饢		
-
-❤ ❥ 웃 유 ♋ ☮ ✌ ☏ ☢ ☠ ✔ ☑ ♚ ▲ ♪ ✈ ⌚ ¿
-♥ ❣ ♂ ♀ ☿ Ⓐ ✍ ✉ ☣ ☤ ✘ ☒ ♛ ▼ ♫ ⌘ ⌛ ¡
-♡ ღ ツ ☼ ☁ ❅ ♒ ✎ © ® ™ Σ ✪ ✯ ☭ ➳ ✞
-✿ ϟ ☃ ☂ ✄ ¢ € £ ∞ ✫ ★ ½ ☯ ✡ ☪
-
-♠ ♣ ♥ ♦
-
+══════════════════════════════════════════════		
 https://unicode-table.com/en/
+
 
 Code Name         MOTD code
 ═══════════════════════════

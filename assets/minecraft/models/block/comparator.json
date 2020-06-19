@@ -2,7 +2,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"0": "block/redstone_candelbra",
-		"1": "block/stone_slab_top",
+		"1": "block/oak_planks",
 		"particle": "block/redstone_candelbra"
 	},
 	"elements": [

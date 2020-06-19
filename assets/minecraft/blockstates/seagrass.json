@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "": [	
-            { "model": "block/seagrass", "weight": 10 },
-            { "model": "block/foliage/seagrass1", "weight": 10 },
-            { "model": "block/foliage/seagrass2", "weight": 10 }			
-        ]
-    }
-}

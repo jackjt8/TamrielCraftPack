@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/redstone_candelbra",
 		"1": "block/redstone_torch",
-		"2": "block/stone_slab_top",
+		"2": "block/oak_planks",
 		"particle": "block/redstone_candelbra"
 	},
 	"elements": [
