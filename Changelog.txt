@@ -1,6 +1,65 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
+December 1st, 2020
+v1.15_b2
+
+Updated pack.mcmeta for Minecraft 1.16.2–1.16.4.
+
+══════════════════════════════════════════════
+TamrielPack
+May 22, 2020
+v1.15_b1
+
+Updated to Excalibur v1.15 bringing support for Minecraft 1.15 and with limited support for 1.16.
+
+══════════════════════════════════════════════			
+June 17, 2020		
+V[1.15]
+
+-updated Excalibur naming-scheme
+-updated pack version (5)
+
+-added beehive
+-added bee nest
+-added bees
+-added honey block
+-added honey bottle
+-added crossbow
+
+-fixed chest mapping
+-fixed banner formatting
+-bandaid fixed transparent paintings (temporary)
+-updated enchantment glint
+-added iron golem damage indicators
+-adjusted chicken model
+-adjusted pig model
+-removed squid model
+-added blue squid variant
+-updated beetroot item
+-adjusted kelp item
+-added flies to rotten flesh item
+-adjusted spider eye
+-updated slime block
+-adjusted slime mob
+-added rats (silverfish that spawn above ground)
+-updated leaf models
+-adjusted jungle leaves
+-updated jungle button
+-updated note block
+-updated tripwire hook model to tap (for barrels or faucets)
+
+
+1.16:
+-added soul fire torch
+-added soul fire lantern
+-added nether sprouts
+-added chain block
+-added nether gold ore
+
+
+══════════════════════════════════════════════
+TamrielPack
 May 22, 2020
 v1.14_b3
 

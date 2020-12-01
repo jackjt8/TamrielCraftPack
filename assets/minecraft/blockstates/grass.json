@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+        { "model": "block/foliage/tall_grass/tall_grass", "weight": 40 },
+        { "model": "block/foliage/tall_grass/tall_grass1", "weight": 30 },
+        { "model": "block/foliage/tall_grass/tall_grass2", "weight": 35 },
+        { "model": "block/foliage/tall_grass/tall_grass3", "weight": 20 },
+        { "model": "block/foliage/tall_grass/tall_grass4", "weight": 30 },
+        { "model": "block/foliage/tall_grass/low_grass", "weight": 10 }		
+        ]
+    }
+}
