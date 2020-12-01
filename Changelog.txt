@@ -1,6 +1,13 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
+December 1st, 2020
+v1.15_b2
+
+Updated pack.mcmeta for Minecraft 1.16.2–1.16.4.
+
+══════════════════════════════════════════════
+TamrielPack
 May 22, 2020
 v1.15_b1
 
