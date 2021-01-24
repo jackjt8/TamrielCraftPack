@@ -6,7 +6,7 @@ REM ~~~
 ECHO TamrielCraftPack Auto Build
 ECHO ===
 ECHO #
-SET "file_copy=assets Changelog.txt pack.mcmeta pack.png"
+SET "file_copy=Changelog.txt pack.mcmeta pack.png"
 SET "optifine_disables= foliage\reeds foliage\sand_snow glass\1.png glass\glass_white.properties random\cauldron random\dragonegg stone\orange_concrete stone\stone_pillar"
 REM ~~~
 
@@ -26,6 +26,7 @@ ECHO #
 
 REM ~~~
 ECHO Copying files
+XCOPY /Y /S /Q %~dp0\assets %~dp0%ex_name%\assets
 (FOR %%a IN (%file_copy%) DO (
 	XCOPY /Y /Q %~dp0%%a %~dp0%ex_name%
 ))
@@ -47,7 +48,11 @@ ECHO #
 REM ~~~
 REM Excluded root archive creation
 ECHO Compressing Archive
-POWERSHELL Compress-Archive -Path %~dp0%ex_name%\* -DestinationPath %~dp0TCP.zip -Force
+IF EXIST %~dp0TCP.zip (
+	DEL /Q %~dp0TCP.zip
+)
+"C:\Program Files\7-Zip\7z.exe" a "%~dp0TCP.zip" "%~dp0%ex_name%\*"
+
 ECHO #
 
 ECHO DONE.
