@@ -1,7 +1,7 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
-May 22, 2020
+Jan 24, 2021
 v1.16_b1
 	
 Updated to Excalibur v1.16 bringing support for Minecraft 1.16.
