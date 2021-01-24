@@ -1,6 +1,98 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
+May 22, 2020
+v1.16_b1
+	
+Updated to Excalibur v1.16 bringing support for Minecraft 1.16.
+
+══════════════════════════════════════════════			
+January	23, 2021
+V[1.16]
+
+-added chiseled netherbricks
+-added cracked netherbicks
+-updated netherbrick doubleslab
+-updated red netherbrick + added variants
+-added shroomlight
+-added zombie piglin
+-added quartz bricks
+-added warped wart block
+-updated nether wart block
+-added weeping vines
+-added crying obsidian
+-added warped fungus + 3D model
+-added warped fungus on a stick
+-added crimson planks
+-added crimson door
+-added crimson nylium
+-added crimson roots
+-added warped nylium
+-added warped roots
+-added netherite tools
+-added netherite block
+-added pigstep music disc
+-added lodestone
+-added target block
+-added crimson stem
+-added warped stem
+-added soul fire
+
+-fixed stonebrick wall
+-updated sandstone wall
+-adjusted lava and magma colors
+-adjusted lightmaps
+-tweaked many items
+-added drowned
+-added banner pattern items
+-added tube coral block
+-adjusted wool textures up 1 pixel
+-added brown carpet texture (bear fur)
+-added potted dead bush model
+-added lantern item models
+-added custom barrels with optifine
+-adjusted wall torch model
+-adjusted redstone torch models
+-adjusted spruce trapdoor
+-adjusted dark oak trapdoor + door
+-added seagrass cattails with optifine
+-added poppy model
+-updated oxeeye daisy
+-adjusted farmland sides
+-adjusted potato model and texture
+-adjusted beetroot model
+-tweaked oak leaf highlights
+-adjusted beds
+-updated gold helmet to a crown
+-updated concrete powders
+-added smithing table UI
+-added stonecutter model
+-added loom model
+-adjusted cartography table model
+-updated iron colors (lanterns, chains, iron bars, rails, etc)
+-updated lever texture
+-updated oak pressure plate
+-updated stone pressure plate
+-added jungle pressure plate model
+-added buckets (warped button)
+-added books (crimson button)
+-added animation to flame particle
+-added log pile (extinguished soul campfire)
+-adjusted polished andesite color
+-adjusted dark oak fence post texture
+-adjusted fence tops
+-updated stained glass
+-updated observer
+-updated daylight sensor
+-removed iron bell (dragon egg)
+-updated spruce log
+-updated acacia log
+-updated log tops
+-updated stripped jungle log
+-updated jungle plank doubleslab top
+
+══════════════════════════════════════════════
+TamrielPack
 December 1st, 2020
 v1.15_b2
 
