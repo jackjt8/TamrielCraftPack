@@ -2,6 +2,145 @@
 ══════════════════════════════════════════════
 TamrielPack
 Jan 24, 2021
+v1.17_b1
+	
+Updated to Excalibur v1.17 bringing support for Minecraft 1.17.
+
+══════════════════════════════════════════════
+
+November 28, 2021
+V[1.17]
+
+-added glow item frame
+-added axolotl bucket
+-added powder snow bucket
+-added rooted dirt
+-added hanging roots
+-added copper ore
+-added copper ingot
+-added copper blocks
+-added lightning rod
+-added candles
+-added amethyst blocks
+-added amethyst shard
+-added deepslate with variants
+-added deepslate ores
+-added deepslate tiles
+-added cracked deepslate tiles
+-added deepslate bricks
+-added cracked deepslate tiles
+-added cobbled deepslate
+-added polished deepslate
+-added chiseled deepslate
+-added dripstone block
+-added moss block
+-added glow squid
+-added glow lichen
+-added powder snow
+-added azalea bush
+-added azalea leaves
+-added glow berry vine
+
+-updated monster spawner color
+-updated bedrock
+-added ancient debris
+-added soul soil
+-updated soul sand
+-updated dark oak log
+-updated stripped birch log
+-added flower pot bottoms
+-updated spectral arrow entity
+-added blackstone
+-added gilded blackstone
+-added polished blackstone
+-added chisled polished blackstone
+-added cracked polished blackstone bricks
+-added polished blackstone bricks
+-added polished blackstone button
+-updated crimson button (book stack) model
+-added missing pressure plate textures
+-updated crimson planks
+-added crimson doubleslab
+-added crimson trapdoor
+-updated warped planks
+-added warped trapdoor
+-adjusted sunflower stem
+-added structure void
+-adjusted emerald block
+-added honeycomb block
+-updated beehive
+-updated cracked stone bricks + added variant
+-tweaked vines
+-adjusted white terracotta color to match concrete
+-added mossy stone brick wall model
+-adjusted wall models
+-adjusted green concrete
+-added crimson fungus model
+-updated snow block
+-updated clay block
+-added biome specific deadbush pot texture
+
+-adjusted stick, emerald, carrots, beetroot, fishing rods, flint, tropical fish, item frame, armor stand, repeater, comparator, flower pot, and more items
+-updated glass bottles and potions
+-updated cooked cod
+-added magma cream
+-adjusted trident
+-updated door items
+-updated sign items
+-updated boat items
+-updated minecart items
+-updated leather
+-updated scute
+-added knowledge book
+-added raw/cooked mutton
+-added raw/cooked rabbit
+-updated sweet berries
+-added glow berries
+-updated spider eye
+-updated cauldron item
+-updated hopper item
+-updated iron nugget
+-adjusted gold nugget
+-added raw iron
+-added raw gold
+-added raw copper
+-added netherite scrap
+-updated netherite item colors
+-added netherite armor
+-updated diamond helmet item
+-updated chain armor
+-added honeycomb
+-updated honey bottle
+-updated kelp
+-updated chorus fruit items
+-added heart of the sea
+-adjusted flower pot texture to match bricks
+-updated spawn egg
+
+-updated boar texture
+-added rabbits
+-adjusted sheep wool
+-updated evoker
+-added vindicator
+-added dolphin
+-adjusted creeper model
+-adjusted horses
+-added ducks (river specific chickens)
+-updated elder guardian
+-added wither/wither skeleton model
+
+-fixed chest models (optifine)
+-fixed extinguished soul campfire cullfacing
+-fixed banner patterns (Thank you TrinalDust!)
+-added optifine carpet item textures (Thank you GrandPappyJay!)
+
+-updated hotbar and menu buttons UI
+-adjusted creative UI to promote visibility
+-adjusted recipe book UI
+
+══════════════════════════════════════════════
+TamrielPack
+Jan 24, 2021
 v1.16_b1
 	
 Updated to Excalibur v1.16 bringing support for Minecraft 1.16.
