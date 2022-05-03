@@ -1,82 +1,78 @@
 ﻿Extra Blocks:
 ══════════════════════════════════════════════	
-- Spruce Box: Spruce Planks double slab  
+- Spruce Crate: spruce planks double slab  
+- Jungle Plank Trim: jungle planks double slab
+- Sandstone Bricks: sandstone double slab  
+- Red Sandstone Bricks: red sandstone double slab 
+- Vertical Dark Oak Planks: dark oak planks double slab 
+- Vertical Crimson Planks: crimson planks double slab
+- Nether Brick Tiles: nether brick double slab
 
-- Jungle Crate: Jungle Planks double slab
+- Nest: dead horn coral fan
+- Pebbles/Rocks: stone button
+- Hay Patch: yellow carpet
+- Mud: brown concrete powder
+- Dirt Slab: lower petrified slab /give @player minecraft:petrified_wood_slab
 
-- Sandstone Bricks: Sandstone double slab  
+- Table: Upper petrified slab /give @player minecraft:petrified_oak_slab
+- Wooden Truss Supports: sideways hopper
+- Tudor Blocks: light grey/brown glazed terracotta
+- Carved Wood: brown concrete
+- Cracked Stones: silverfish infested blocks
 
-- Red Sandstone Bricks: Red Sandstone double slab  
+- Brazier: end rod
+- Large Lantern: beacon
+- Sideways Lantern: end rod on wall
+- Candelabra: redstone comparator
 
-- Dirt Slab: Lower old wood slab (usage: /give @player minecraft:petrified_wood_slab)
+- Tankard/Mug: 1 dead sea pickle 
+- Glass Bottles/Mason Jars: 2 dead sea pickles
+- Quill and Parchment: 3 dead sea pickles
+- Assorted Jars: 4 dead sea pickles
+- Wine Bottle/Cactus Juice: flower pot with cactus
+- Book Stack: crimson button
 
-- Table: Upper old wood slab (usage: /give @player minecraft:petrified_oak_slab)
-
-- Cracked Stones: Silverfish infested blocks
-
-- Bonsai Tree: Flower pot with jungle sapling
-
-- Wine Bottle (Cactus Juice): Flower pot with cactus
-
-- Wither Rose Case: Flower pot with wither rose
-
-- Large Lantern: Beacon
-
-- Brazier: End Rod
-
-- Sideways Lantern: End Rod on wall
-
-- Candelabra: Redstone comparator
-
-- Pebbles/Rocks: Stone buttons placed on ground
-
-- Hay Patch: Yellow carpet
-
-- Rope: Single birch fence
-
-- Iron Bell: Dragon Egg
-
-- Wooden Truss Supports: Hopper
-
-- Tudor Blocks: Light grey/Brown glazed terracotta
-
-- Mud: Brown concrete powder
-
-- Carved Wood: Brown concrete
-
-- Coin Pile/Chicken Feed: Gold pressure plate
-
+- Bonsai Tree: flower pot with jungle sapling
+- Wither Rose Case: flower pot with wither rose
+- Rope: single birch fence
+- Coin Pile/Chicken Feed: gold pressure plate
 - Chess/Checkers Board: Dark oak pressure plate
+- Faucet/Barrel Tap: tripwire hook
+- Water Bucket: warped button
+- Lava Bucket: warped button /setblock ~ ~ ~ minecraft:warped_button[powered=true,face=floor,facing=north]
 
-- Nest: Dead horn coral fan
-
-- Faucet/Barrel Tap: Tripwire Hook
+- Invisible Item Frame: /give @player item_frame{EntityTag:{Invisible:1}}
 
 DISABLED
 	Optifine Blocks:
 	══════════════════════════════════════════════	
-	- Orange Concrete with Sandstone Trim
-	- Redstone Pillar: vertical stack of redstone block
-	- Stone Pillar: vertical stack of chiseled stone brick
-	- Natural Glowstone: Glowstone in nether biome
-	- Bee Hive: Dragon Egg in forest biomes
-	- Paper Wall: White Glass in birch biomes
-	- Sand Dunes: Snow Pile in desert biomes
-	- Smoke: Cobweb in nether biome
-	- Bamboo: Reeds in birch biomes
-	- Papyrus: Reeds in desert biomes
-	- Cattail: Reeds in wet biomes
-	- Basket: Cauldron in desert biomes
-	- Barrel: Cauldron in hills biomes
+	- Orange Concrete w/ Sandstone Trim: orange concrete
+	- Stone Pillar: vertical stack of chiseled stone bricks
+
+	- Wasp Nest: dragon egg in forest biomes
+	- Paper Wall: white glass in birch biomes
+	- Sand Dunes: snow pile in desert biomes
+	- Smoke: cobweb in nether biome
+
+	- Bamboo: reeds in birch biomes
+	- Papyrus: reeds in desert biomes
+	- Cattail: reeds in wet biomes
+
+	- Basket: cauldron in desert biomes
+	- Barrel: cauldron in hills biomes
+	- Barrel of Apples, Cabbages, Gold, Wheat, Dirt, Wheat, Coal: Renamed Barrel to "Barrel of ____"
+
+
 
 Optifine CIT:
 ══════════════════════════════════════════════	
-(items below are placed in item frame)
-- Round Shield: Renamed Shield to "round shield"
-- Wheel: Renamed Item Frame to "wheel" or "o"
-- Mirror: Renamed Diamond to "mirror"
-- Tanning Rack: Renamed Leather to "tanning rack"
-- Campfire: Renamed Coal to "campfire"
+Items below must be placed in an item frame!
+
+- Round Shield: renamed shield to "round shield"
+- Wheel: renamed item frame to "wheel" or "o"
+- Mirror: Renamed diamond to "mirror"
+- Tanning Rack: renamed leather to "tanning rack"
+- Campfire: renamed coal to "campfire"
 
 
 Custom characters:
