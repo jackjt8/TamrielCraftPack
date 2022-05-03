@@ -55,5 +55,12 @@ IF EXIST %~dp0TCP.zip (
 
 ECHO #
 
+ECHO Cleanup
+IF EXIST %~dp0%ex_name% (
+	ECHO Removing folder %ex_name%
+	RD /S /Q %~dp0%ex_name%
+	ECHO #
+)
+
 ECHO DONE.
 PAUSE
