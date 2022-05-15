@@ -2,14 +2,16 @@
 ══════════════════════════════════════════════
 TamrielPack
 May 15, 2022
-v1.17.1b1
+v1.18b1
+
+Updated to Excalibur v1.18.1
 
 Blockstates
 - Remove unnessary duplicate blockstates
 - Update seasgress.json (seagrass -> seagrass_tall)
 
 Models
-- Removed cobblestone_wall_side and mossy_cobblestone_wall_side
+- Removed unnessary cobblestone_wall_side and mossy_cobblestone_wall_side models
 
 Pack
 - Update pack.mcmeta
@@ -26,7 +28,97 @@ Updated textures to be considered
 	texture\block\birch_leaves.png
 	texture\block\leaves_birch_opaque.png
 
+══════════════════════════════════════════════	
 
+February 6, 2022
+V[1.18.1]
+
+-updated pack icon (Thank you Brakrel!)
+-reduced pack size
+-optimized model folders
+-adjusted loom cullfacing
+-optimized leaf models
+-added glow lichen models
+-added large fern models (Thank you GrandPappyJay!)
+-added tall grass models (Thank you GrandPappyJay!)
+-updated lilypad models
+-added cake with candle model
+-added item frame shield model
+-fixed shield blocking model
+-fixed biomespecific soul sand
+-fixed skybox void textures
+
+-fixed inventory effects GUI
+-updated advancements GUI
+-added freezing hearts icons
+
+-updated prismarine
+-adjusted deepslate colors
+-added deepslate variant
+-updated polished deepslate
+-tweaked polished andesite
+-adjusted lava colors
+-added door close sounds
+-removed grass sounds
+-adjusted corals
+-updated salmon
+-adjusted pig saddle
+-added christmas chests
+-adjusted blaze
+-adjusted dark oak fence post
+-added rabbit hide
+-added glow ink sac
+-updated netherwart
+-tweaked music discs
+-added otherside music disc
+-adjusted stone hoe
+-added basalt
+-added polished basalt
+-darkened oak logs
+-tweaked fern
+
+-purplified enderman
+-purplified endermite
+-purplified end crystal
+-purplified ender pearl
+-purplified end chest
+-adjusted eye of ender
+-adjusted chorus plant
+-adjusted end sky
+
+══════════════════════════════════════════════
+
+December 16, 2021
+V[1.18]
+
+-updated ghast shooting
+-updated bears
+-updated stray
+-adjusted pufferfish + added model
+-updated cow + model
+-updated mooshroom + model
+-updated chicken model
+-updated creeper model
+-added squid model
+-updated spider models
+-added piglin
+-added piglin brute
+-updated zombie piglin
+-updated pig colors
+
+-updated bamboo
+-updated cobbled deepslate
+-adjusted large fern
+-added moss carpet overhang model
+-updated spruce fence colors to match planks
+-adjusted hopper
+-adjusted beetroot crops
+
+-fixed biome specific textures
+-updated biome colormap
+-updated spruce colormap
+-updated birch colormap
+-updated lightmap
 
 ══════════════════════════════════════════════
 TamrielPack
