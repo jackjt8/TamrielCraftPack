@@ -14,11 +14,13 @@ Models
 Pack
 - Update pack.mcmeta
 - Update ExtraBlocks
+
+Shaders
+- Added rendertype_entity_solid.fsh [MC-164001] Transparent Textures Fix (mc1.17+) via https://www.planetminecraft.com/texture-pack/mc-164001-transparent-textures-bug-fix-see-through-paintings-beds-amp-shields/
 	
 Texture
 - Disable prismarine animation by forcing frame[2] #15
 - Unpack painting atlas into individual files #14
-	(creebet.png?)
 
 Updated textures to be considered
 	texture\block\birch_leaves.png
