@@ -1,10 +1,39 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
+May 15, 2022
+v1.17.1b1
+
+Blockstates
+- Remove unnessary duplicate blockstates
+- Update seasgress.json (seagrass -> seagrass_tall)
+
+Models
+- Removed cobblestone_wall_side and mossy_cobblestone_wall_side
+
+Pack
+- Update pack.mcmeta
+- Update ExtraBlocks
+	
+Texture
+- Disable prismarine animation by forcing frame[2] #15
+- Unpack painting atlas into individual files #14
+	(creebet.png?)
+
+Updated textures to be considered
+	texture\block\birch_leaves.png
+	texture\block\leaves_birch_opaque.png
+
+
+
+══════════════════════════════════════════════
+TamrielPack
 May 3, 2022
 v1.17
 	
 Move to stable release.
+
+Updated pack.png (To v1.17)
 
 ══════════════════════════════════════════════
 TamrielPack
