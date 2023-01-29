@@ -1,6 +1,14 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
+Jan 29,2023
+v1.18b2
+
+Models
+- Updated item_frame model to reduce size to 2x2 and translate down into blocks. Should not break anything but should be invisible to an extent.
+
+══════════════════════════════════════════════
+TamrielPack
 May 15, 2022
 v1.18b1
 
@@ -16,6 +24,7 @@ Models
 Pack
 - Update pack.mcmeta
 - Update ExtraBlocks
+- Update pack.png
 
 Shaders
 - Added rendertype_entity_solid.fsh [MC-164001] Transparent Textures Fix (mc1.17+) via https://www.planetminecraft.com/texture-pack/mc-164001-transparent-textures-bug-fix-see-through-paintings-beds-amp-shields/
