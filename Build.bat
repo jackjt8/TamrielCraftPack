@@ -11,8 +11,11 @@ SET "optifine_disables= foliage\reeds foliage\sand_snow glass\white random\cauld
 REM ~~~
 
 REM Find and set Excalibur and Excalibur Extras
-REM FOR /f "delims=" %%a IN ('DIR /s /b %~dp0Excalibur*.zip') DO SET "ex_name=%%~na"
-REM FOR /f "delims=" %%a IN ('DIR /s /b %~dp0Excalibur_Extras*.zip') DO SET "exextras_name=%%~na"
+FOR /f "delims=" %%a IN ('DIR /s /b %~dp0Excalibur*.zip') DO SET "ex_name=%%~na"
+FOR /f "delims=" %%a IN ('DIR /s /b %~dp0Excalibur_Extras*.zip') DO SET "exextras_name=%%~na"
+
+IF "%ex_name%"=="" (GOTO :notdefined)
+IF "%exextras_name%"=="" (GOTO :notdefined)
 
 REM ~~~
 REM Safety Check
@@ -86,3 +89,9 @@ IF EXIST %~dp0%exextras_name% (
 
 ECHO DONE.
 PAUSE
+EXIT /B
+
+:notdefined
+ECHO ex or exextra are NOT defined
+PAUSE
+EXIT /B
