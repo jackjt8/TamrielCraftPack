@@ -13,9 +13,9 @@ This repo is where you can suggest changes to Tamrielcraft's resource pack which
 
 ## Build instructions
 
-1. Download and extract a copy of this Repo and Excalibur.
+1. Download a copy of this Repo, Excalibur, and Excalibur Extras.
 
-2. Copy/move contents of the extracted TamrielCraftPack folder into Excalibur overwriting files.
+2. Extract Excalibur first. Then overwrite any files with those from Excalibur Extras and finally TamrielCraftPack. 
 
 3. Remove "Optifine Blocks" listed in ExtraBlocks found in `assets/minecraft/optifine/ctm`
 
