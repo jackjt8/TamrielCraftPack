@@ -6,6 +6,14 @@ v1.20b1
 
 Updated to Excalibur v1.20
 
+LANG
+Added en_gb lang file
+
+MISC
+Updated pack.png & added resources to repo
+Added Custom Splashes
+Added Custom Title
+
 ══════════════════════════════════════════════
 August 27, 2023
 V[1.20]
