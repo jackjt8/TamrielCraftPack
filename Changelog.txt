@@ -1,6 +1,315 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
+Sep 10,2023
+v1.20b1
+
+Updated to Excalibur v1.20
+
+══════════════════════════════════════════════
+August 27, 2023
+V[1.20]
+
+	Global
+-updated pack version (15)	
+-updated splashes
+-updated panorama
+
+	Bug Fixes
+-fixed title screen
+-fixed smithing table UI
+-fixed enchanting table z-fighting
+-fixed spawn egg z-fighting
+-fixed enchanted glint
+-fixed wall cullfacing
+-fixed stonebrick wall z-fighting
+-optimized leaf models
+
+	1.20 Features
+-added bamboo planks
+-added bamboo mosaic
+-added bamboo mosaic doubleslab (tatami mat)
+-added bamboo fence + gate
+-added bamboo sign + hanging sign
+-added bamboo raft
+-added bamboo door
+-added bamboo trapdoor
+-added block of bamboo
+-added stripped block of bamboo
+-added cherry log
+-added cherry leaves
+-added cherry planks
+-added cherry door
+-added cherry trapdoor
+-added cherry sign + hanging sign
+-added cherry boat
+-added pink petals
+-added torchflower
+-added pitcher plant
+-added chiseled bookshelf + 3D model
+-added hanging signs
+-added relic music disc
+-added brush
+-added potted cherry sapling model
+-added sniffer
+-added sniffer egg
+-added decorated pots
+-added sherds
+-added smithing templates
+-added suspicious sand
+-added suspicious gravel
+
+	Blocks
+-added tinted glass
+-added netherrack variants
+-added deepslate tiles top texture
+-added flower butterflies
+-updated polished deepslate
+-updated diorite color
+-updated granite color
+-updated lapis lazuli ore
+-updated item frame
+-updated anvil
+-updated stone bricks
+-updated deepslate bricks
+-updated lightning rod + added golden lightning rod (powered)
+-updated sea pickle
+-updated torches
+-updated red/pink concrete
+-updated blue/light-blue terracotta
+-updated composter model
+-updated spruce leaves
+-updated stripped spruce log
+-updated grass side
+-adjusted andesite
+-adjusted deepslate
+-adjusted wheat stages 6 + 7
+-adjusted gray/light-gray wool
+-tweaked red sandstone color
+-tweaked blackstone
+-tweaked mud
+
+	Items
+-added fire charge
+-updated totem of undying
+-updated golden sword
+-updated debug stick
+-updated lapis lazuli
+-updated chorus fruit
+-updated popped chorus fruit
+-updated map
+-tweaked birch door
+
+	Entities
+-added strider
+-added vex
+-added allay + added variant
+-added villager professions
+-added warden (WIP)
+-updated enchanting table book
+-updated beacon beam
+-updated end gateway beam
+-updated shulker head
+-updated snow villager
+-updated slime + added variants
+-updated evoker + added variant
+-updated charged creeper
+-adjusted horses
+
+	MISC
+-added player death sound effect	
+-added gamemode switcher UI (F3+F4)
+-added toasts UI
+-added "pigscene" painting
+-updated biome colormaps
+-updated experience orbs
+-updated "skeleton" map painting
+-updated leather armor
+-adjusted advancement UI
+-reduced moon size
+-swapped various paintings
+
+	Optifine
+-moved mob variants to random/entity folder
+-added "Dragon Slayer" sword CIT - (rename sword to "Dragon Slayer Greatsword")
+-added "Excalibur" sword CIT - (rename sword to "Diamond Excalibur")
+-added enchanting table book CEM
+-added lectern book CEM
+-added soulsand valley blaze
+-added flight duration firework textures
+-added allay model
+-added vex model
+-added rabbit model
+-added jockey chicken model
+-added baby chicken model
+-added blaze model
+-added horse model
+-added wandering trader variants
+-added piglin variant
+-added zombie variants
+-added frost spider variant
+-added frogspawn CTM
+-added goblin (baby zombie)
+-added infinity bow CIT
+-added enchanted books CIT
+-added reinforced deepslate CTM
+-added invisible armor
+-added sugar cane vertical CTM
+-added polished diorite overlay
+-removed bookshelf vertical CTM
+-removed enderman model
+-removed biomespecific bamboo sugar cane
+-removed material connections
+-removed text.sign color property
+-updated chest models for fabric (Thanks GrandPappyJay!)
+-adjusted cobblestone overlay
+-adjusted sheep model
+-adjusted skeleton model
+-adjusted creepers
+
+══════════════════════════════════════════════		
+May 3, 2023
+V[1.19.4]
+
+	Global
+-updated pack version (13)
+-moved "extra blocks" to addon pack
+
+	Bug Fixes
+-fixed 1.19.3 creative inventory
+-fixed birch fence/gate UV
+-fixed cake with candle model
+-fixed cauldron model
+-fixed horse inventory
+-fixed prismarine texture
+-fixed door models (Thanks GrandPappyJay!)
+
+	1.19 Features
+-added mud
+-added mud bricks
+-added packed mud
+-added mangrove leaves
+-added mangrove propagule
+-added mangrove log
+-added mangrove roots
+-added mangrove sign
+-added mangrove boat
+-added mangrove planks
+-added stripped mangrove log
+-added muddy mangrove roots
+-added music disc 5 
+-added disc fragment
+-added chest boats
+-added tadpole bucket
+-added frog eggs
+-added reinforced deepslate
+
+	Blocks
+-added deepslate brick variants
+-added smooth basalt
+-added respawn anchor
+-added shulker boxes
+-added smoker model
+-added angled rail models
+-added polished blackstone doubleslab (blackstone pillar)
+-added bee nest model
+-added enchanting table model
+-added allium variant + adjusted texture
+-added infested deepslate
+-added dragon egg animation + added model
+-updated glass
+-updated dandelion models
+-updated poppy model + added variants
+-updated bamboo
+-updated red sand color
+-updated clay block
+-updated end rod
+-updated redstone torches
+-updated brown concrete powder
+-updated cocoa beans + added models
+-updated budding amethyst
+-updated deepslate tiles
+-adjusted polished deepslate
+-adjusted chiseled deepslate
+-adjusted basalt colors
+-adjusted soul lantern color
+-adjusted birch forest grass color
+-adjusted coarse dirt distribution
+-adjusted acacia colors
+-adjusted beacon
+-adjusted dirt path color
+-adjusted moist farmland
+-adjusted seagrass/kelp colors
+-adjusted deepslate ores
+-tweaked spruce trapdoor
+-tweaked polished andesite
+-tweaked brewing stand
+
+	Entities
+-added trader llama	
+-added phantom + added model
+-updated wandering trader + added model
+-updated iron golem + added model
+-updated enderman + added model
+-updated donkey & mule saddle textures
+-tweaked spiders (added bottom texture)
+
+	Items
+-added dried kelp
+-added nautilus shell
+-added phantom membrane
+-added spyglass
+-added ender eye animation
+-updated shulker shell
+-adjusted rotten flesh
+-adjusted spawn eggs
+-tweaked stone hoe
+
+	User Interface
+-added unknown_pack icon
+-added 1.19 UI slider + tab textures
+-adjusted language select button
+-adjusted accessibility button
+-tweaked advancements window UI
+
+	Sounds
+-specified main menu music
+-removed custom horse leather sound
+-removed custom iron golem throw sound
+-optimized portal sounds (now within sounds.json)
+-added custom bow sound
+-added custom lever sound
+-added custom pick up sound
+-lowered anvil placing sound volume
+
+	Optifine
+-removed capitals from property files
+-removed sandstone top CTM
+-updated CEM formatting (Thanks GrandPappyJay!)
+-updated CIT formatting (Thanks GrandPappyJay!)
+-updated dye color properties
+-updated CIT tanning rack texture (Thanks GrandPappyJay!)
+-added prismarine repeated texture (Thanks GrandPappyJay!)
+-added unique CIT suspicious stews (Thanks GrandPappyJay!)
+-added unique CIT paintings
+-added cobblestone overlay
+-added netherrack overlay
+-added biomespecific spruce campfires
+-added birch planks CTM + variants
+-added spruce planks CTM
+-added prismarine bricks overlay
+-adjusted lightmaps
+
+	1.20 Experimental
+-added bamboo planks
+-added bamboo mosaic 
+-added bamboo fence & gate
+-added chiseled bookshelf
+-added hanging signs
+
+
+══════════════════════════════════════════════
+TamrielPack
 Feb 1,2023
 v1.18b3
 
@@ -46,7 +355,6 @@ Updated textures to be considered
 	texture\block\leaves_birch_opaque.png
 
 ══════════════════════════════════════════════	
-
 February 6, 2022
 V[1.18.1]
 
@@ -104,7 +412,6 @@ V[1.18.1]
 -adjusted end sky
 
 ══════════════════════════════════════════════
-
 December 16, 2021
 V[1.18]
 
