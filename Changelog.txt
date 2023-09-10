@@ -1,6 +1,14 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
+Feb 1,2023
+v1.18b3
+
+Textures
+- Add Masser and Secunda moon phases from lore. Credits to Sover#6150
+
+══════════════════════════════════════════════
+TamrielPack
 Jan 29,2023
 v1.18b2
 

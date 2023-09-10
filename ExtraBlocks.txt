@@ -25,10 +25,13 @@
 - Sideways Lantern: end rod on wall
 - Candelabra: redstone comparator
 
-- Tankard/Mug: 1 dead sea pickle 
-- Glass Bottles/Mason Jars: 2 dead sea pickles
-- Quill and Parchment: 3 dead sea pickles
-- Assorted Jars: 4 dead sea pickles
+Replaced
+	- Tankard/Mug: 1 dead sea pickle 
+	- Glass Bottles/Mason Jars: 2 dead sea pickles
+	- Quill and Parchment: 3 dead sea pickles
+	- Assorted Jars: 4 dead sea pickles
+- Kwama eggs: dead sea pickles
+
 - Wine Bottle/Cactus Juice: flower pot with cactus
 - Book Stack: crimson button
 
@@ -36,12 +39,14 @@
 - Wither Rose Case: flower pot with wither rose
 - Rope: single birch fence
 - Coin Pile/Chicken Feed: gold pressure plate
-- Chess/Checkers Board: Dark oak pressure plate
+Disabled
+	- Chess/Checkers Board: Dark oak pressure plate
 - Faucet/Barrel Tap: tripwire hook
 - Water Bucket: warped button
 - Lava Bucket: warped button /setblock ~ ~ ~ minecraft:warped_button[powered=true,face=floor,facing=north]
 
-- Invisible Item Frame: /give @player item_frame{EntityTag:{Invisible:1}}
+DO NOT USE
+	- Invisible Item Frame: /give @player item_frame{EntityTag:{Invisible:1}}
 
 DISABLED
 	Optifine Blocks:
@@ -63,7 +68,7 @@ DISABLED
 	- Barrel of Apples, Cabbages, Gold, Wheat, Dirt, Wheat, Coal: Renamed Barrel to "Barrel of ____"
 
 
-
+DO NOT USE
 Optifine CIT:
 ══════════════════════════════════════════════	
 Items below must be placed in an item frame!
@@ -73,6 +78,66 @@ Items below must be placed in an item frame!
 - Mirror: Renamed diamond to "mirror"
 - Tanning Rack: renamed leather to "tanning rack"
 - Campfire: renamed coal to "campfire"
+
+Player Heads:
+══════════════════════════════════════════════
+https://minecraft-heads.com/dictionary/tags-grouped
+
+All Minecraft head commands have to be used in command blocks!
+
+- Chests
+https://minecraft-heads.com/custom-heads/decoration/30166-chest
+https://minecraft-heads.com/custom-heads/decoration/2964-chest
+
+- Books, Decorations, and Furniture
+https://minecraft-heads.com/custom-heads/tags/var/Book
+https://minecraft-heads.com/custom-heads/decoration/17163-antique-clock
+https://minecraft-heads.com/custom-heads/decoration/2984-globe
+https://minecraft-heads.com/custom-heads/decoration/22922-stool
+
+- Bags, Rope, and Hay
+https://minecraft-heads.com/custom-heads/tags/var/Cloth
+https://minecraft-heads.com/custom-heads/search?searchword=hay+bale
+
+- Barrels, Pots, Baskets, and Buckets
+https://minecraft-heads.com/custom-heads/search?searchword=barrel
+https://minecraft-heads.com/custom-heads/decoration/864-flowerpot
+https://minecraft-heads.com/custom-heads/decoration/23522-clay-pot
+https://minecraft-heads.com/custom-heads/decoration/1131-basket
+https://minecraft-heads.com/custom-heads/search?searchword=bucket
+
+- Food and Drink
+https://minecraft-heads.com/custom-heads/tags/var/Vegetable
+https://minecraft-heads.com/custom-heads/plants/4570-apple
+https://minecraft-heads.com/custom-heads/plants/33413-broccoli
+https://minecraft-heads.com/custom-heads/plants/31417-cabbage
+https://minecraft-heads.com/custom-heads/plants/4598-pumpkin
+
+https://minecraft-heads.com/custom-heads/food%20&%20drinks/22-bread
+https://minecraft-heads.com/custom-heads/food%20&%20drinks/11494-rye-bread
+
+https://minecraft-heads.com/custom-heads/food-drinks/22354-fish-head
+https://minecraft-heads.com/custom-heads/food-drinks/22820-fish-body
+https://minecraft-heads.com/custom-heads/food-drinks/22353-fish-tail
+
+https://minecraft-heads.com/custom-heads/food-drinks/2427-medieval-beer
+https://minecraft-heads.com/custom-heads/tags/var/Medieval%20Tavern
+
+- Candles and Lanterns
+https://minecraft-heads.com/custom-heads/decoration/268-candle-white
+https://minecraft-heads.com/custom-heads/decoration/21407-candle-white
+https://minecraft-heads.com/custom-heads/decoration/31411-lantern
+https://minecraft-heads.com/custom-heads/decoration/310-lantern
+https://minecraft-heads.com/custom-heads/decoration/311-lantern
+
+- Chickens and Birds
+https://minecraft-heads.com/custom-heads/animals/25751-chicken
+https://minecraft-heads.com/custom-heads/animals/22352-chicken
+https://minecraft-heads.com/custom-heads/animals/25749-duck
+https://minecraft-heads.com/custom-heads/animals/25750-duck
+https://minecraft-heads.com/custom-heads/animals/22961-duck
+https://minecraft-heads.com/custom-heads/animals/4175-goose
+https://minecraft-heads.com/custom-heads/animals/344-owl
 
 
 Custom characters:
