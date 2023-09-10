@@ -32,7 +32,7 @@ This repo is where you can suggest changes to Tamrielcraft's resource pack which
 	/stone/orange_concrete/
 	/stone/stone_pillar/
 	```
-(release) 4. Update `changelog.txt` and `pack.mcmeta`
+(release) 4. Update `changelog.txt`, `pack.mcmeta`, `extras.txt`, `pack.png`
 
 (release) 5. Package contents into .zip file ie:
 
