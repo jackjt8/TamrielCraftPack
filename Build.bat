@@ -6,8 +6,8 @@ REM ~~~
 ECHO TamrielCraftPack Auto Build
 ECHO ===
 ECHO #
-SET "file_copy=Changelog.txt pack.mcmeta pack.png"
-SET "optifine_disables= foliage\reeds foliage\sand_snow glass\1.png glass\glass_white.properties random\cauldron random\dragonegg stone\orange_concrete stone\stone_pillar"
+SET "file_copy=Changelog.txt extras.txt pack.mcmeta pack.png"
+SET "optifine_disables= foliage\reeds foliage\sand_snow glass\white random\cauldron stone\orange_concrete stone\stone_brick_pillar"
 REM ~~~
 
 FOR /f "delims=" %%a IN ('DIR /s /b %~dp0Excalibur*.zip') DO SET "ex_name=%%~na"
@@ -48,10 +48,10 @@ ECHO #
 REM ~~~
 REM Excluded root archive creation
 ECHO Compressing Archive
-IF EXIST %~dp0TCP.zip (
-	DEL /Q %~dp0TCP.zip
+IF EXIST %~dp0TCP_dev.zip (
+	DEL /Q %~dp0TCP_dev.zip
 )
-"C:\Program Files\7-Zip\7z.exe" a "%~dp0TCP.zip" "%~dp0%ex_name%\*"
+"C:\Program Files\7-Zip\7z.exe" a "%~dp0TCP_dev.zip" "%~dp0%ex_name%\*"
 
 ECHO #
 
