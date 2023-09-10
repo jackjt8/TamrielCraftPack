@@ -53,13 +53,13 @@ Transparent textures do not display correctly - Minecraft bug tracked via MC-164
 
 Recommended that you use a 3rd party launcher with Instance support like Prism.
 
-Use Fabulously Optimized as a base mod pack.
+Use **Fabulously Optimized** as a base mod pack.
 
-DISABLE enhancedblockentities!!!
+**DISABLE Enhanced Block Entities**
 	This mod will break culling on many blocks.
 
 For Minecraft 1.20:
-
+```
 advancementinfo
 animatica
 antighost
@@ -108,13 +108,15 @@ sodium
 yet-another-config-lib
 yosbr
 Zoomify
+```
 
----
+
 ### Other mods
 
 #### DistantHorizons-2.0.0-a-RC3-1.20.1
-	LOD mod. 2.0 is a huge upgrade.
+
+LOD mod. 2.0 is a huge upgrade.
 	
 #### viafabricplus
-	Lets you connect to older Minecraft servers... like the server on 1.16.5.
+Lets you connect to older Minecraft servers... like the server on 1.16.5.
 	
