@@ -1,0 +1,19 @@
+{
+  "language.name": "British English",
+  "language.region": "United Kingdom",
+  "language.code": "en_gb",
+
+  "block.minecraft.sea_pickle": "Sea Pickle(w)/Kwama Egg(d)",
+  
+  "item.minecraft.phantom_spawn_egg": "Cliff Racer Egg",
+  "item.minecraft.phantom_membrane": "Racer Plumes",
+  
+  "entity.minecraft.phantom": "Cliff Racer",
+
+  "subtitles.entity.phantom.ambient": "Cliff Racer screeches",
+  "subtitles.entity.phantom.bite": "Cliff Racer bites",
+  "subtitles.entity.phantom.death": "Cliff Racer dies",
+  "subtitles.entity.phantom.flap": "Cliff Racer flaps",
+  "subtitles.entity.phantom.hurt": "Cliff Racer hurts",
+  "subtitles.entity.phantom.swoop": "Cliff Racer swoops"
+}

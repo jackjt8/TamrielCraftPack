@@ -1,5 +1,6 @@
 ﻿Extra Blocks:
-══════════════════════════════════════════════	
+══════════════════════════════════════════════
+	BLOCKS	
 - Spruce Crate: spruce planks double slab  
 - Jungle Plank Trim: jungle planks double slab
 - Sandstone Bricks: sandstone double slab  
@@ -7,23 +8,37 @@
 - Vertical Dark Oak Planks: dark oak planks double slab 
 - Vertical Crimson Planks: crimson planks double slab
 - Nether Brick Tiles: nether brick double slab
+- Blackstone Pillar: polished blackstone double slab
+- Prismarine Brick Mosaic: prismarine brick double slab
+- Tudor Blocks: light grey/brown glazed terracotta
+- Cracked Stones: silverfish infested blocks
+- Wooden Truss Supports: sideways hopper
+- Carved Wood: brown concrete
+- Mud: brown concrete powder
+- Dirt Slab: lower petrified slab `/give @player minecraft:petrified_wood_slab`
 
+	DECAL
 - Nest: dead horn coral fan
 - Pebbles/Rocks: stone button
+- Coal Lumps: polished blackstone button
 - Hay Patch: yellow carpet
-- Mud: brown concrete powder
-- Dirt Slab: lower petrified slab /give @player minecraft:petrified_wood_slab
-
-- Table: Upper petrified slab /give @player minecraft:petrified_oak_slab
-- Wooden Truss Supports: sideways hopper
-- Tudor Blocks: light grey/brown glazed terracotta
-- Carved Wood: brown concrete
-- Cracked Stones: silverfish infested blocks
-
+- Tatami Mat: bamboo mosaic double slab
+- Table: Upper petrified slab `/give @player minecraft:petrified_oak_slab`
+- Gold Lightning Rod: powered lightning rod
+- Wine Bottle/Cactus Juice: flower pot with cactus
+- Bonsai Tree: flower pot with jungle sapling
+- Wither Rose Case: flower pot with wither rose
+- Faucet/Barrel Tap: tripwire hook
 - Brazier: end rod
 - Large Lantern: beacon
 - Sideways Lantern: end rod on wall
 - Candelabra: redstone comparator
+- Wine Bottle/Cactus Juice: flower pot with cactus
+- Book Stack: crimson button
+- Rope: single birch fence
+- Coin Pile/Chicken Feed: gold pressure plate
+- Water Bucket: warped button
+- Lava Bucket: warped button `/setblock ~ ~ ~ minecraft:warped_button[powered=true,face=floor,facing=north]`
 
 Replaced
 	- Tankard/Mug: 1 dead sea pickle 
@@ -32,21 +47,11 @@ Replaced
 	- Assorted Jars: 4 dead sea pickles
 - Kwama eggs: dead sea pickles
 
-- Wine Bottle/Cactus Juice: flower pot with cactus
-- Book Stack: crimson button
-
-- Bonsai Tree: flower pot with jungle sapling
-- Wither Rose Case: flower pot with wither rose
-- Rope: single birch fence
-- Coin Pile/Chicken Feed: gold pressure plate
 Disabled
 	- Chess/Checkers Board: Dark oak pressure plate
-- Faucet/Barrel Tap: tripwire hook
-- Water Bucket: warped button
-- Lava Bucket: warped button /setblock ~ ~ ~ minecraft:warped_button[powered=true,face=floor,facing=north]
 
 DO NOT USE
-	- Invisible Item Frame: /give @player item_frame{EntityTag:{Invisible:1}}
+	- Invisible Item Frame: `/give @player item_frame{EntityTag:{Invisible:1}}`
 
 DISABLED
 	Optifine Blocks:
@@ -69,15 +74,15 @@ DISABLED
 
 
 DO NOT USE
-Optifine CIT:
-══════════════════════════════════════════════	
-Items below must be placed in an item frame!
+	Optifine CIT:
+	══════════════════════════════════════════════	
+	Items below must be placed in an item frame!
 
-- Round Shield: renamed shield to "round shield"
-- Wheel: renamed item frame to "wheel" or "o"
-- Mirror: Renamed diamond to "mirror"
-- Tanning Rack: renamed leather to "tanning rack"
-- Campfire: renamed coal to "campfire"
+	- Round Shield: renamed shield to "round shield"
+	- Wheel: renamed item frame to "wheel" or "o"
+	- Mirror: Renamed diamond to "mirror"
+	- Tanning Rack: renamed leather to "tanning rack"
+	- Campfire: renamed coal to "campfire"
 
 Player Heads:
 ══════════════════════════════════════════════

@@ -13,26 +13,23 @@ This repo is where you can suggest changes to Tamrielcraft's resource pack which
 
 ## Build instructions
 
-1. Download and extract a copy of this Repo and Excalibur.
+Either run `Build.bat` if on Windows OR Manually build:
 
-2. Copy/move contents of the extracted TamrielCraftPack folder into Excalibur overwriting files.
+1. Download a copy of this Repo, Excalibur, and Excalibur Extras.
+
+2. Extract Excalibur first. Then overwrite any files with those from Excalibur Extras and finally TamrielCraftPack. 
 
 3. Remove "Optifine Blocks" listed in ExtraBlocks found in `assets/minecraft/optifine/ctm`
 
 	```
-	/foliage/cobweb/
-	/foliage/reeds/ ~maybe?
-	/foliage/sand_snow/
-	/glass/1.png
-	/glass/glass_white.properties
-	/random/cauldron/
-	/random/dragonegg/
-	/random/glowstone/ ~maybe?
-	/random/cobweb/
-	/stone/orange_concrete/
-	/stone/stone_pillar/
+	foliage\reeds
+	foliage\sand_snow
+	glass\white
+	random\cauldron
+	stone\orange_concrete
+	stone\stone_brick_pillar
 	```
-(release) 4. Update `changelog.txt` and `pack.mcmeta`
+(release) 4. Update `changelog.txt`, `pack.mcmeta`, `extras.txt`, `pack.png`
 
 (release) 5. Package contents into .zip file ie:
 
@@ -49,6 +46,77 @@ OptiFine OpenGL Error 1281 - Generally causes by having VBOs, Render Regions, an
 
 `Options > Video Settings > Other... > Show GL Errors: Off`
 
-
 Transparent textures do not display correctly - Minecraft bug tracked via MC-164001. The patch, included with this resource pack as of v1.18.1b1, only works on Minecraft 1.17. For 1.16.5 you need to use a mod to fix this issue like [Transparent (Fabric)](https://www.curseforge.com/minecraft/mc-mods/transparent).
 
+
+## Recommended Mods
+
+Recommended that you use a 3rd party launcher with Instance support like Prism.
+
+Use **Fabulously Optimized** as a base mod pack.
+
+**DISABLE Enhanced Block Entities**
+	This mod will break culling on many blocks.
+
+For Minecraft 1.20:
+```
+advancementinfo
+animatica
+antighost
+bettermounthud
+borderless-mining
+capes
+CITResewn
+cloth-config
+continuity
+Controlify
+Debugify
+dynamic-fps
+e4mc
+entityculling
+entity_model_features
+entity_texture_features
+fabric-api
+fabric-language-kotlin
+fabricskyboxes
+fabrishot
+fadeless
+farsight
+fastquit
+ferritecore
+fsb-interop
+ImmediatelyFast
+indium
+iris
+language-reload
+lithium
+main-menu-credits
+memoryleakfix
+mixintrace
+modelfix
+modernfix-fabric
+modmenu
+morechathistory
+moreculling
+NoChatReports
+optigui
+puzzle
+reeses_sodium_options
+Rrls
+sodium-extra
+sodium
+yet-another-config-lib
+yosbr
+Zoomify
+```
+
+
+### Other mods
+
+#### DistantHorizons-2.0.0-a-RC3-1.20.1
+
+LOD mod. 2.0 is a huge upgrade.
+	
+#### viafabricplus
+Lets you connect to older Minecraft servers... like the server on 1.16.5.
+	
