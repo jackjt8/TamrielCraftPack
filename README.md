@@ -22,10 +22,12 @@ Either run `Build.bat` if on Windows OR Manually build:
 3. Remove "Optifine Blocks" listed in ExtraBlocks found in `assets/minecraft/optifine/ctm`
 
 	```
+	dragonegg
 	foliage\reeds
 	foliage\sand_snow
 	glass\white
 	random\cauldron
+	random\prismarine
 	stone\orange_concrete
 	stone\stone_brick_pillar
 	```

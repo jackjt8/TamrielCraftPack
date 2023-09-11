@@ -7,7 +7,7 @@ ECHO TamrielCraftPack Auto Build
 ECHO ===
 ECHO #
 SET "file_copy=Changelog.txt extras.txt pack.mcmeta pack.png"
-SET "optifine_disables= foliage\reeds foliage\sand_snow glass\white random\cauldron stone\orange_concrete stone\stone_brick_pillar"
+SET "optifine_disables= dragonegg foliage\reeds foliage\sand_snow glass\white random\cauldron random\prismarine stone\orange_concrete stone\stone_brick_pillar"
 REM ~~~
 
 REM Find and set Excalibur and Excalibur Extras
@@ -54,14 +54,14 @@ ECHO #
 
 REM ~~~
 REM Debloat
-ECHO Removing unneeded terrain.png
-DEL %~dp0%ex_name%\terrain.png
-ECHO #
+REM ECHO Removing unneeded terrain.png
+REM DEL %~dp0%ex_name%\terrain.png
+REM ECHO #
 
 REM ~~~
 ECHO Disabling OptiFine Features
 (FOR %%b in (%optifine_disables%) DO (
-	DEL /Q "%~dp0%ex_name%\assets\minecraft\optifine\ctm\%%b"
+	RMDIR /S /Q "%~dp0%ex_name%\assets\minecraft\optifine\ctm\%%b"
 ))
 ECHO #
 
