@@ -1,6 +1,18 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
+Sep 11,2023
+v1.20b2
+
+TEXTURE/OptiFine
+Remove new Prismarine CTM
+
+MISC
+Updated pack.png
+Added Custom Splashes
+
+══════════════════════════════════════════════
+TamrielPack
 Sep 10,2023
 v1.20b1
 
