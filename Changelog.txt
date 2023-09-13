@@ -1,6 +1,16 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
+Sep 13,2023
+v1.20b3
+
+TEXTURE
+Update Iron Axe texture to be based on Iron War Axe from Skyrim Credits to polanos
+
+...
+
+══════════════════════════════════════════════
+TamrielPack
 Sep 11,2023
 v1.20b2
 
