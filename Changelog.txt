@@ -6,6 +6,14 @@ v1.20b3
 
 TEXTURE
 Update Iron Axe texture to be based on Iron War Axe from Skyrim Credits to polanos
+Revert granite block texture to 1.18b3 version
+Replaced music_disc_mall texture with a more fitting album cover for Dagothwave
+
+SOUND
+Replaced mall.ogg (C418 - mall) to "Dagothwave by Dagoth Ur" by young scrolls as we have permission!
+
+LANG
+Updated lang files to reflect new music
 
 ...
 

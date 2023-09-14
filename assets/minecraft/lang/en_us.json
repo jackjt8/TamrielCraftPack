@@ -5,11 +5,12 @@
 
   "block.minecraft.sea_pickle": "Sea Pickle(w)/Kwama Egg(d)",
   
-  "item.minecraft.phantom_spawn_egg": "Cliff Racer Egg",
-  "item.minecraft.phantom_membrane": "Racer Plumes",
+  "item.minecraft.music_disc_mall": "Music Disc",
+  "item.minecraft.music_disc_mall.desc": "young scrolls - Dagothwave by Dagoth Ur",
   
   "entity.minecraft.phantom": "Cliff Racer",
-
+  "item.minecraft.phantom_spawn_egg": "Cliff Racer Egg",
+  "item.minecraft.phantom_membrane": "Racer Plumes",
   "subtitles.entity.phantom.ambient": "Cliff Racer screeches",
   "subtitles.entity.phantom.bite": "Cliff Racer bites",
   "subtitles.entity.phantom.death": "Cliff Racer dies",
