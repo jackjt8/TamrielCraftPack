@@ -1,7 +1,7 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
-Sep 13,2023
+Sep 14,2023
 v1.20b3
 
 TEXTURE
@@ -14,8 +14,6 @@ Replaced mall.ogg (C418 - mall) to "Dagothwave by Dagoth Ur" by young scrolls as
 
 LANG
 Updated lang files to reflect new music
-
-...
 
 ══════════════════════════════════════════════
 TamrielPack
