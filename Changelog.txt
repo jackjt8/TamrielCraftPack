@@ -1,6 +1,23 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
+Sep 20,2023
+v1.20b4
+
+TEXTURE
+Replaced music_disc_13, music_disc_far, and music_disc_relic with fitting covers
+
+SOUND
+Replace 13.ogg (C418 - 13) to "Luther Broad Motel" by young scrolls
+Replace far.ogg (C418 - far) to "MIRAAK - TRUE POWER" by young scrolls
+Fix mail.ogg playing globally by making it mono
+Replace relic.ogg (Aaron Cherof - Relic) to "Balmora Vice" by young scrolls
+
+LANG
+Updated lang files to reflect new music
+
+══════════════════════════════════════════════
+TamrielPack
 Sep 14,2023
 v1.20b3
 

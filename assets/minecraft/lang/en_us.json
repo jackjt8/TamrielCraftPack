@@ -5,8 +5,14 @@
 
   "block.minecraft.sea_pickle": "Sea Pickle(w)/Kwama Egg(d)",
   
+  "item.minecraft.music_disc_13": "Music Disc",
+  "item.minecraft.music_disc_13.desc": "young scrolls - Luther Broad Motel",
+  "item.minecraft.music_disc_far": "Music Disc",
+  "item.minecraft.music_disc_far.desc": "young scrolls - TRUE POWER by MIRAAK",
   "item.minecraft.music_disc_mall": "Music Disc",
   "item.minecraft.music_disc_mall.desc": "young scrolls - Dagothwave by Dagoth Ur",
+  "item.minecraft.music_disc_relic": "Music Disc",
+  "item.minecraft.music_disc_relic.desc": "young scrolls - Balmora Vice",
   
   "entity.minecraft.phantom": "Cliff Racer",
   "item.minecraft.phantom_spawn_egg": "Cliff Racer Egg",
