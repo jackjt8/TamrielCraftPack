@@ -1,6 +1,20 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
+Sep ??,2023
+v1.20b5
+
+TEXTURE
+Replaced music_disc_ward with cover
+
+SOUND
+Replace ward.ogg (C418 - ward) to "Running In Circles by Runs-In-Circles" by young scrolls
+
+LANG
+Updated lang files to reflect new music
+
+══════════════════════════════════════════════
+TamrielPack
 Sep 20,2023
 v1.20b4
 
