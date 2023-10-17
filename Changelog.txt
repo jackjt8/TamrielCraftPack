@@ -1,7 +1,7 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
-Sep ??,2023
+Oct 17,2023
 v1.20b5
 
 TEXTURE
