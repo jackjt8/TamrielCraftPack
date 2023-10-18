@@ -1,6 +1,23 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
+Oct 19,2023
+v1.20b6
+
+TEXTURE
+Replaced music_disc_ward with cover
+
+SOUND
+Replace blocks.ogg (C418 - blocks) to a semi-custom TES Surf Album by All in All
+	Contains - "The Wave Most Surfed",
+	"Nerevar Rising-Call of Magic (Surf Version)",
+	and "Dragonborn Surfs".
+
+LANG
+Updated lang files to reflect new music
+
+══════════════════════════════════════════════
+TamrielPack
 Oct 17,2023
 v1.20b5
 
