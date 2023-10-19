@@ -2,6 +2,22 @@
 ══════════════════════════════════════════════
 TamrielPack
 Oct 19,2023
+v1.20b7
+
+TEXTURE
+Replaced music_disc_wait and music_disc_5 with cover
+
+SOUND
+Replace wait.ogg (C418 - wait) to PELINAL by All in All
+Replace 5.ogg (Samuel Aberg - 5) to The Wheel (Synthwave Version) by All in All
+
+
+LANG
+Updated lang files to reflect new music
+
+══════════════════════════════════════════════
+TamrielPack
+Oct 19,2023
 v1.20b6
 
 TEXTURE
