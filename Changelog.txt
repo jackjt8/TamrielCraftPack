@@ -1,6 +1,22 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
+Nov 12,2023
+v1.20b8
+
+TEXTURE
+Replaced music_disc_pigstep with cover
+
+SOUND
+Replace menu1.ogg with TES III Morrowind OST - Nerevar Rising
+Replace pigstep.ogg (Lena Raine - Pigstep) with Morrowind 2047 by Musicformed
+	(CC BY https://www.youtube.com/watch?v=mt1Y1qYIBV8)
+
+LANG
+Updated lang files to reflect new music
+
+══════════════════════════════════════════════
+TamrielPack
 Oct 19,2023
 v1.20b7
 
@@ -8,9 +24,8 @@ TEXTURE
 Replaced music_disc_wait and music_disc_5 with cover
 
 SOUND
-Replace wait.ogg (C418 - wait) to PELINAL by All in All
-Replace 5.ogg (Samuel Aberg - 5) to The Wheel (Synthwave Version) by All in All
-
+Replace wait.ogg (C418 - wait) with PELINAL by All in All
+Replace 5.ogg (Samuel Aberg - 5) with The Wheel (Synthwave Version) by All in All
 
 LANG
 Updated lang files to reflect new music
@@ -24,7 +39,7 @@ TEXTURE
 Replaced music_disc_ward with cover
 
 SOUND
-Replace blocks.ogg (C418 - blocks) to a semi-custom TES Surf Album by All in All
+Replace blocks.ogg (C418 - blocks) with a semi-custom TES Surf Album by All in All
 	Contains - "The Wave Most Surfed",
 	"Nerevar Rising-Call of Magic (Surf Version)",
 	and "Dragonborn Surfs".
@@ -41,7 +56,7 @@ TEXTURE
 Replaced music_disc_ward with cover
 
 SOUND
-Replace ward.ogg (C418 - ward) to "Running In Circles by Runs-In-Circles" by young scrolls
+Replace ward.ogg (C418 - ward) with "Running In Circles by Runs-In-Circles" by young scrolls
 
 LANG
 Updated lang files to reflect new music
@@ -55,10 +70,10 @@ TEXTURE
 Replaced music_disc_13, music_disc_far, and music_disc_relic with fitting covers
 
 SOUND
-Replace 13.ogg (C418 - 13) to "Luther Broad Motel" by young scrolls
-Replace far.ogg (C418 - far) to "MIRAAK - TRUE POWER" by young scrolls
+Replace 13.ogg (C418 - 13) with "Luther Broad Motel" by young scrolls
+Replace far.ogg (C418 - far) with "MIRAAK - TRUE POWER" by young scrolls
 Fix mail.ogg playing globally by making it mono
-Replace relic.ogg (Aaron Cherof - Relic) to "Balmora Vice" by young scrolls
+Replace relic.ogg (Aaron Cherof - Relic) with "Balmora Vice" by young scrolls
 
 LANG
 Updated lang files to reflect new music
@@ -74,7 +89,7 @@ Revert granite block texture to 1.18b3 version
 Replaced music_disc_mall texture with a more fitting album cover for Dagothwave
 
 SOUND
-Replaced mall.ogg (C418 - mall) to "Dagothwave by Dagoth Ur" by young scrolls as we have permission!
+Replaced mall.ogg (C418 - mall) with "Dagothwave by Dagoth Ur" by young scrolls as we have permission!
 
 LANG
 Updated lang files to reflect new music
