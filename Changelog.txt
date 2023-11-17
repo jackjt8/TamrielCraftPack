@@ -1,7 +1,7 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
-Nov 12,2023
+Nov 17,2023
 v1.20b8
 
 TEXTURE
@@ -9,6 +9,8 @@ Replaced music_disc_pigstep with cover
 
 SOUND
 Replace menu1.ogg with TES III Morrowind OST - Nerevar Rising
+Replace menu2.ogg with TES II Daggerfall - Daggerfall Demo Theme (Bonus)
+	DAG_3.MID via Roland SC-55 virtual synth
 Replace pigstep.ogg (Lena Raine - Pigstep) with Morrowind 2047 by Musicformed
 	(CC BY https://www.youtube.com/watch?v=mt1Y1qYIBV8)
 
