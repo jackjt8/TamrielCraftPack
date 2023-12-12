@@ -53,72 +53,45 @@ Transparent textures do not display correctly - Minecraft bug tracked via MC-164
 
 ## Recommended Mods
 
-Recommended that you use a 3rd party launcher with Instance support like Prism.
+Recommended that you use a 3rd party launcher with Instance support like Prism. This means that you can easily have different setups for different versions, modpacks, servers, etc.
 
-Use **Fabulously Optimized** as a base mod pack.
+Use **Fabulously Optimized** as a base mod pack. Everything just works together.
 
 **DISABLE Enhanced Block Entities**
 	This mod will break culling on many blocks.
 
-For Minecraft 1.20:
-```
-advancementinfo
-animatica
-antighost
-bettermounthud
-borderless-mining
-capes
-CITResewn
-cloth-config
-continuity
-Controlify
-Debugify
-dynamic-fps
-e4mc
-entityculling
-entity_model_features
-entity_texture_features
-fabric-api
-fabric-language-kotlin
-fabricskyboxes
-fabrishot
-fadeless
-farsight
-fastquit
-ferritecore
-fsb-interop
-ImmediatelyFast
-indium
-iris
-language-reload
-lithium
-main-menu-credits
-memoryleakfix
-mixintrace
-modelfix
-modernfix-fabric
-modmenu
-morechathistory
-moreculling
-NoChatReports
-optigui
-puzzle
-reeses_sodium_options
-Rrls
-sodium-extra
-sodium
-yet-another-config-lib
-yosbr
-Zoomify
-```
+
+### Distant Horizons Alpha 2.0.1
+
+Adds LODs to minecraft. Allows for massively increased render distances without costing too much performance. Works with Iris shaders.
+
+[Link](https://modrinth.com/mod/distanthorizons)
 
 
-### Other mods
+#### Blendium
 
-#### DistantHorizons-2.0.0-a-RC3-1.20.1
+Adds alpha blending for Distant Horizons and Sodium. Also has some stuff for Iris so that shaders work better with Distant Horizons.
 
-LOD mod. 2.0 is a huge upgrade.
-	
-#### viafabricplus
-Lets you connect to older Minecraft servers... like the server on 1.16.5.
+[Link](https://modrinth.com/mod/blendium)
+
+
+### Nvidium
+
+Uses Nvidia mesh shaders to boost rendering performance and allows increased render distances at minimal cost. Works with Distant Horizons but auto disables for shaders.
+
+[Link](https://modrinth.com/mod/nvidium)
+
+
+### viafabricplus
+
+Lets you connect to EVERY minecraft server with QoL fixes.
+
+[Link](https://modrinth.com/mod/viafabricplus)
+
+
+### Better Anvil / RP Renames
+
+Was recommended. Need to investigate.
+
+
 	

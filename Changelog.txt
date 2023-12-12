@@ -1,7 +1,16 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
-Nov 17,2023
+Dec 12, 2023
+v1.20b9
+
+SOUND
+Replace menu3.ogg with TES IV Oblivion OST - Reign of the Septims
+
+
+══════════════════════════════════════════════
+TamrielPack
+Nov 17, 2023
 v1.20b8
 
 TEXTURE
@@ -19,7 +28,7 @@ Updated lang files to reflect new music
 
 ══════════════════════════════════════════════
 TamrielPack
-Oct 19,2023
+Oct 19, 2023
 v1.20b7
 
 TEXTURE
@@ -34,7 +43,7 @@ Updated lang files to reflect new music
 
 ══════════════════════════════════════════════
 TamrielPack
-Oct 19,2023
+Oct 19, 2023
 v1.20b6
 
 TEXTURE
@@ -51,7 +60,7 @@ Updated lang files to reflect new music
 
 ══════════════════════════════════════════════
 TamrielPack
-Oct 17,2023
+Oct 17, 2023
 v1.20b5
 
 TEXTURE
@@ -65,7 +74,7 @@ Updated lang files to reflect new music
 
 ══════════════════════════════════════════════
 TamrielPack
-Sep 20,2023
+Sep 20, 2023
 v1.20b4
 
 TEXTURE
@@ -82,7 +91,7 @@ Updated lang files to reflect new music
 
 ══════════════════════════════════════════════
 TamrielPack
-Sep 14,2023
+Sep 14, 2023
 v1.20b3
 
 TEXTURE
@@ -98,7 +107,7 @@ Updated lang files to reflect new music
 
 ══════════════════════════════════════════════
 TamrielPack
-Sep 11,2023
+Sep 11, 2023
 v1.20b2
 
 TEXTURE/OptiFine
@@ -110,7 +119,7 @@ Added Custom Splashes
 
 ══════════════════════════════════════════════
 TamrielPack
-Sep 10,2023
+Sep 10, 2023
 v1.20b1
 
 Updated to Excalibur v1.20
