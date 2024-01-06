@@ -6,7 +6,7 @@ REM ~~~
 ECHO TamrielCraftPack Auto Build
 ECHO ===
 ECHO #
-SET "file_copy=Changelog.txt extras.txt pack.mcmeta pack.png"
+SET "file_copy=Changelog.txt extras.txt pack.mcmeta pack.png README.md"
 SET "optifine_disables= dragonegg foliage\reeds foliage\sand_snow glass\white random\cauldron random\prismarine stone\orange_concrete stone\stone_brick_pillar"
 REM ~~~
 
