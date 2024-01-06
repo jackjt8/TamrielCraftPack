@@ -1,12 +1,76 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielPack
+Jan 6, 2024
+v1.20
+	
+Move to stable release.
+
+Changes from last stable release:
+
+BLOCKSTATES
+- Remove unnessary duplicate blockstates
+- Update seasgress.json (seagrass -> seagrass_tall)
+
+LANG
+- Added en_gb lang file with custom entries
+
+MISC
+- Added Custom Splashes
+- Added Custom Title
+
+MODELS
+- Removed unnessary cobblestone_wall_side and mossy_cobblestone_wall_side models
+- Updated item_frame model to reduce size to 2x2 and translate down into blocks. Should not break anything but should be invisible to an extent.
+
+PACK
+- Update pack.mcmeta
+- Update ExtraBlocks
+- Update pack.png
+- Added pack.png resources to repo
+- Updated to Excalibur base to 1.20
+
+OPTIFINE
+- Remove new Prismarine CTM
+
+SHADERS
+- Added rendertype_entity_solid.fsh [MC-164001] Transparent Textures Fix (mc1.17+) via https://www.planetminecraft.com/texture-pack/mc-164001-transparent-textures-bug-fix-see-through-paintings-beds-amp-shields/
+
+SOUND
+	> We got permission to add music by young scrolls and All in All.
+- Replaced mall.ogg (C418 - mall) with "Dagothwave by Dagoth Ur" by young scrolls
+- Replace 13.ogg (C418 - 13) with "Luther Broad Motel" by young scrolls
+- Replace far.ogg (C418 - far) with "MIRAAK - TRUE POWER" by young scrolls
+- Replace relic.ogg (Aaron Cherof - Relic) with "Balmora Vice" by young scrolls
+- Replace ward.ogg (C418 - ward) with "Running In Circles by Runs-In-Circles" by young scrolls
+- Replace blocks.ogg (C418 - blocks) with a semi-custom TES Surf Album by All in All
+	Contains - "The Wave Most Surfed", "Nerevar Rising-Call of Magic (Surf Version)", and "Dragonborn Surfs".
+- Replace wait.ogg (C418 - wait) with PELINAL by All in All
+- Replace 5.ogg (Samuel Aberg - 5) with The Wheel (Synthwave Version) by All in All
+- Replace pigstep.ogg (Lena Raine - Pigstep) with Morrowind 2047 by Musicformed
+	(CC BY https://www.youtube.com/watch?v=mt1Y1qYIBV8)
+- Replace menu1.ogg with TES III Morrowind OST - Nerevar Rising
+- Replace menu2.ogg with TES II Daggerfall - Daggerfall Demo Theme (Bonus)
+	DAG_3.MID via Roland SC-55 virtual synth
+- Replace menu3.ogg with TES IV Oblivion OST - Reign of the Septims
+- Replace menu3.ogg with 
+
+TEXTURE
+- Disable prismarine animation by forcing frame[2] #15
+- Unpack painting atlas into individual files #14
+- Add Masser and Secunda moon phases from lore. Credits to Sover#6150
+- Update Iron Axe texture to be based on Iron War Axe from Skyrim Credits to polanos
+- Revert granite block texture to 1.18b3 version
+- Replaced varioius music disc textures to fit new music
+- Added new main menu background cubemap
+
+══════════════════════════════════════════════
+TamrielPack
 Dec 12, 2023
 v1.20b9
 
 SOUND
 Replace menu3.ogg with TES IV Oblivion OST - Reign of the Septims
-
 
 ══════════════════════════════════════════════
 TamrielPack
