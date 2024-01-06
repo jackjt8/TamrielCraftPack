@@ -1,6 +1,6 @@
 ﻿Changelog
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 Jan 6, 2024
 v1.20
 	
@@ -65,7 +65,7 @@ TEXTURE
 - Added new main menu background cubemap
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 Dec 12, 2023
 v1.20b9
 
@@ -73,7 +73,7 @@ SOUND
 Replace menu3.ogg with TES IV Oblivion OST - Reign of the Septims
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 Nov 17, 2023
 v1.20b8
 
@@ -91,7 +91,7 @@ LANG
 Updated lang files to reflect new music
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 Oct 19, 2023
 v1.20b7
 
@@ -106,7 +106,7 @@ LANG
 Updated lang files to reflect new music
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 Oct 19, 2023
 v1.20b6
 
@@ -123,7 +123,7 @@ LANG
 Updated lang files to reflect new music
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 Oct 17, 2023
 v1.20b5
 
@@ -137,7 +137,7 @@ LANG
 Updated lang files to reflect new music
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 Sep 20, 2023
 v1.20b4
 
@@ -154,7 +154,7 @@ LANG
 Updated lang files to reflect new music
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 Sep 14, 2023
 v1.20b3
 
@@ -170,7 +170,7 @@ LANG
 Updated lang files to reflect new music
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 Sep 11, 2023
 v1.20b2
 
@@ -182,7 +182,7 @@ Updated pack.png
 Added Custom Splashes
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 Sep 10, 2023
 v1.20b1
 
@@ -499,7 +499,7 @@ V[1.19.4]
 
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 Feb 1,2023
 v1.18b3
 
@@ -507,7 +507,7 @@ Textures
 - Add Masser and Secunda moon phases from lore. Credits to Sover#6150
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 Jan 29,2023
 v1.18b2
 
@@ -515,7 +515,7 @@ Models
 - Updated item_frame model to reduce size to 2x2 and translate down into blocks. Should not break anything but should be invisible to an extent.
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 May 15, 2022
 v1.18b1
 
@@ -635,7 +635,7 @@ V[1.18]
 -updated lightmap
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 May 3, 2022
 v1.17
 	
@@ -644,7 +644,7 @@ Move to stable release.
 Updated pack.png (To v1.17)
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 Jan 24, 2021
 v1.17_b1
 	
@@ -783,7 +783,7 @@ V[1.17]
 -adjusted recipe book UI
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 Jan 24, 2021
 v1.16_b1
 	
@@ -875,14 +875,14 @@ V[1.16]
 -updated jungle plank doubleslab top
 
 ══════════════════════════════════════════════
-TamrielPack
-December 1st, 2020
+TamrielCraftPack
+Dec 1, 2020
 v1.15_b2
 
 Updated pack.mcmeta for Minecraft 1.16.2–1.16.4.
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 May 22, 2020
 v1.15_b1
 
@@ -934,7 +934,7 @@ V[1.15]
 
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 May 22, 2020
 v1.14_b3
 
@@ -957,7 +957,7 @@ Unfixable
 - z fighting on Shulker Boxes is not fixable due to Minecraft not supporting custom models of these blocks.
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 May 19, 2020
 v1.14_b2
 
@@ -971,7 +971,7 @@ TEXTURE
 Notes - The fix to signs will break when we actually update to MC1.14+ but by this point we would be able to set text colours in the sign.
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 May 18, 2020
 v1.14_b1
 
@@ -1244,7 +1244,7 @@ BUG FIXES:
 
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 May 4, 2020
 v1.13.1_b2
 
@@ -1254,7 +1254,7 @@ MISC
 
 ══════════════════════════════════════════════
 
-TamrielPack
+TamrielCraftPack
 March 4, 2020
 v1.13.1_beta1
 
@@ -1265,7 +1265,7 @@ MISC
 - Trimmed MCPatcher folders and additional Junk not required
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 March 4, 2020
 v1.13.0 (Stable)
 
@@ -1293,7 +1293,7 @@ MISC
 The patch portion of the semantic three-part version will not align with Minecraft's patches.
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 February 18, 2020
 1.13 beta 8_experimental_2
 
@@ -1308,7 +1308,7 @@ ITEMS
 - "fixed" scale on leaves to ~1.99
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 February 8, 2020
 1.13 beta 7
 
@@ -1316,7 +1316,7 @@ BLOCKS
 -Reverted gold_block 1.13 textures to 1.12 variants
 	
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 February 3, 2020
 1.13 beta 6
 
@@ -1327,7 +1327,7 @@ ENTITY
 	Phantom sounds replaced with Cliff Racers
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 January 23, 2020
 1.13 beta 5
 
@@ -1335,7 +1335,7 @@ BLOCKS
 -Reverted coal_crate to coal_block (part2)
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 September 6, 2019
 1.13 beta 4
 
@@ -1348,7 +1348,7 @@ BLOCKS:
 		)
 	
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 August 20, 2019
 1.13 beta 3a
 
@@ -1358,7 +1358,7 @@ BLOCKS:
 	Retains tips.
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 August 19, 2019
 1.13 beta 3
 
@@ -1374,7 +1374,7 @@ MISC:
 -Adjusted changelog layout
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 August 8, 2019
 1.13 beta 2
 
@@ -1382,7 +1382,7 @@ BLOCKS:
 -corrected stone brick stairs corner model not rendering
 
 ══════════════════════════════════════════════
-TamrielPack
+TamrielCraftPack
 February 1, 2019
 1.13 beta 1
 
