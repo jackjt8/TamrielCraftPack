@@ -1,6 +1,15 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielCraftPack
+Jan 7, 2024
+v1.20-2
+
+SOUND
+- Add patch to extend octave range of NoteBlocks created by koca2000 and ishland via NoteBlockAPI
+	REQUIRES SERVER PATCH TO WORK
+
+══════════════════════════════════════════════
+TamrielCraftPack
 Jan 6, 2024
 v1.20
 	
