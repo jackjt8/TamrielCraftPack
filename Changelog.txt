@@ -4,6 +4,10 @@ TamrielCraftPack
 Jan 7, 2024
 v1.20-2
 
+MODELS
+- Fix Stonebrick Wall z-fighting
+- Fix Shulker rendering when using the Enhanced Block Entities mod
+
 SOUND
 - Add patch to extend octave range of NoteBlocks created by koca2000 and ishland via NoteBlockAPI
 	REQUIRES SERVER PATCH TO WORK
