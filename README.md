@@ -61,9 +61,9 @@ Use [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) as
 	This mod will break culling on many blocks.
 
 
-#### Blendium
+### Blendium
 
-Adds alpha blending for Distant Horizons and Sodium. Also has some stuff for Iris so that shaders work better with Distant Horizons.
+Adds alpha blending for Distant Horizons and Sodium. Also has some stuff for Iris so that shaders work better with Distant Horizons. This mod also messes up transparent textures.. so be warned.
 
 [Link](https://modrinth.com/mod/blendium)
 
@@ -75,7 +75,7 @@ Adds LODs to minecraft. Allows for massively increased render distances without 
 [Link](https://modrinth.com/mod/distanthorizons)
 
 
-## Falling Leaves
+### Falling Leaves
 
 Adds falling leaf particle effects to leaf blocks. Looks nice
 
