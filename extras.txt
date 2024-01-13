@@ -1,7 +1,6 @@
 ﻿Extra Blocks:
 ══════════════════════════════════════════════
 	BLOCKS	
-- Spruce Crate: spruce planks double slab  
 - Jungle Plank Trim: jungle planks double slab
 - Sandstone Bricks: sandstone double slab  
 - Red Sandstone Bricks: red sandstone double slab 
@@ -33,7 +32,6 @@
 - Large Lantern: beacon
 - Sideways Lantern: end rod on wall
 - Candelabra: redstone comparator
-- Wine Bottle/Cactus Juice: flower pot with cactus
 - Book Stack: crimson button
 - Rope: single birch fence
 - Coin Pile/Chicken Feed: gold pressure plate

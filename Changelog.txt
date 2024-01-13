@@ -1,6 +1,15 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielCraftPack
+Jan 13, 2024
+v1.20-3
+
+OPTIFINE/CEM
+- Fix Enchanting Table book
+- Fix Lectern book
+
+══════════════════════════════════════════════
+TamrielCraftPack
 Jan 7, 2024
 v1.20-2
 
