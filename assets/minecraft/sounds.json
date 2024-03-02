@@ -1,4 +1,25 @@
 {
+	"music.menu": {
+		"category": "music",
+		"sounds": [
+		  {
+			"name": "music/menu/menu1",
+			"stream": true
+		  },
+		  {
+			"name": "music/menu/menu2",
+			"stream": true
+		  },
+		  {
+			"name": "music/menu/menu3",
+			"stream": true
+		  },
+		  {
+			"name": "music/menu/menu4",
+			"stream": true
+		  }
+		]
+	},
 	"block.note_block.guitar": {
 		"sounds": [
 			"block/note_block/guitar"

@@ -2,40 +2,34 @@
 ══════════════════════════════════════════════
 TamrielCraftPack
 Mar 2, 2024
-v1.20-4
-
-OPTIFINE
-- Removed cit
-
-══════════════════════════════════════════════
-TamrielCraftPack
-Jan 13, 2024
-v1.20-3
-
-MODELS
-- Fix Bamboo Fence Gate
-
-OPTIFINE/CEM
-- Fix Enchanting Table book
-- Fix Lectern book
-- Fix Double Chest
-
-TEXTURE
-- Fix Bamboo Fence Gate
-
-══════════════════════════════════════════════
-TamrielCraftPack
-Jan 7, 2024
 v1.20-2
 
 MODELS
 - Fix Stonebrick Wall z-fighting
 - Attempted to fix Shulker rendering when using the Enhanced Block Entities mod
 	Culling issue
+- Fix Bamboo Fence Gate
+
+PACK
+- Updated build script
+- Update pack.mcmeta
+- Update ExtraBlocks
+- Update pack.png
+
+OPTIFINE
+- Removed CIT
+- Fix Enchanting Table book
+- Fix Lectern book
+- Fix Double Chest
 
 SOUND
 - Add patch to extend octave range of NoteBlocks created by koca2000 and ishland via NoteBlockAPI
 	REQUIRES SERVER PATCH TO WORK
+
+TEXTURE
+- Fix Bamboo Fence Gate
+- Updated main menu background cubemap with Iris 1.7 beta and Bliss shaders
+
 
 ══════════════════════════════════════════════
 TamrielCraftPack
@@ -91,7 +85,7 @@ SOUND
 - Replace menu2.ogg with TES II Daggerfall - Daggerfall Demo Theme (Bonus)
 	DAG_3.MID via Roland SC-55 virtual synth
 - Replace menu3.ogg with TES IV Oblivion OST - Reign of the Septims
-- Replace menu3.ogg with TES V Skyrim OST - Dragonborn
+- Replace menu4.ogg with TES V Skyrim OST - Dragonborn
 
 TEXTURE
 - Disable prismarine animation by forcing frame[2] #15
