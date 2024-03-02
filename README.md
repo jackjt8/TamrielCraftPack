@@ -19,17 +19,18 @@ Either run `Build.bat` if on Windows OR Manually build:
 
 2. Extract Excalibur first. Then overwrite any files with those from Excalibur Extras and finally TamrielCraftPack. 
 
-3. Remove "Optifine Blocks" listed in ExtraBlocks found in `assets/minecraft/optifine/ctm`
+3. Remove the following `Optifine` features in `assets/minecraft/optifine/`
 
 	```
-	dragonegg
-	foliage\reeds
-	foliage\sand_snow
-	glass\white
-	random\cauldron
-	random\prismarine
-	stone\orange_concrete
-	stone\stone_brick_pillar
+	cit
+	ctm\dragonegg
+	ctm\foliage\reeds
+	ctm\foliage\sand_snow
+	ctm\glass\white
+	ctm\random\cauldron
+	ctm\random\prismarine
+	ctm\stone\orange_concrete
+	ctm\stone\stone_brick_pillar
 	```
 (release) 4. Update `changelog.txt`, `pack.mcmeta`, `extras.txt`, `pack.png`
 

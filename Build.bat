@@ -7,7 +7,7 @@ ECHO TamrielCraftPack Auto Build
 ECHO ===
 ECHO #
 SET "file_copy=Changelog.txt extras.txt pack.mcmeta pack.png README.md"
-SET "optifine_disables= dragonegg foliage\reeds foliage\sand_snow glass\white random\cauldron random\prismarine stone\orange_concrete stone\stone_brick_pillar"
+SET "optifine_disables= cit ctm\dragonegg foliage\reeds ctm\foliage\sand_snow ctm\glass\white ctm\random\cauldron ctm\random\prismarine ctm\stone\orange_concrete ctm\stone\stone_brick_pillar"
 REM ~~~
 
 REM Find and set Excalibur and Excalibur Extras
@@ -61,7 +61,7 @@ REM ECHO #
 REM ~~~
 ECHO Disabling OptiFine Features
 (FOR %%b in (%optifine_disables%) DO (
-	RMDIR /S /Q "%~dp0%ex_name%\assets\minecraft\optifine\ctm\%%b"
+	RMDIR /S /Q "%~dp0%ex_name%\assets\minecraft\optifine\%%b"
 ))
 ECHO #
 

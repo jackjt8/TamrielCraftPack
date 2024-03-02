@@ -1,12 +1,27 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielCraftPack
+Mar 2, 2024
+v1.20-4
+
+OPTIFINE
+- Removed cit
+
+══════════════════════════════════════════════
+TamrielCraftPack
 Jan 13, 2024
 v1.20-3
+
+MODELS
+- Fix Bamboo Fence Gate
 
 OPTIFINE/CEM
 - Fix Enchanting Table book
 - Fix Lectern book
+- Fix Double Chest
+
+TEXTURE
+- Fix Bamboo Fence Gate
 
 ══════════════════════════════════════════════
 TamrielCraftPack

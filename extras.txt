@@ -51,36 +51,6 @@ Disabled
 DO NOT USE
 	- Invisible Item Frame: `/give @player item_frame{EntityTag:{Invisible:1}}`
 
-DISABLED
-	Optifine Blocks:
-	══════════════════════════════════════════════	
-	- Orange Concrete w/ Sandstone Trim: orange concrete
-	- Stone Pillar: vertical stack of chiseled stone bricks
-
-	- Wasp Nest: dragon egg in forest biomes
-	- Paper Wall: white glass in birch biomes
-	- Sand Dunes: snow pile in desert biomes
-	- Smoke: cobweb in nether biome
-
-	- Bamboo: reeds in birch biomes
-	- Papyrus: reeds in desert biomes
-	- Cattail: reeds in wet biomes
-
-	- Basket: cauldron in desert biomes
-	- Barrel: cauldron in hills biomes
-	- Barrel of Apples, Cabbages, Gold, Wheat, Dirt, Wheat, Coal: Renamed Barrel to "Barrel of ____"
-
-
-DO NOT USE
-	Optifine CIT:
-	══════════════════════════════════════════════	
-	Items below must be placed in an item frame!
-
-	- Round Shield: renamed shield to "round shield"
-	- Wheel: renamed item frame to "wheel" or "o"
-	- Mirror: Renamed diamond to "mirror"
-	- Tanning Rack: renamed leather to "tanning rack"
-	- Campfire: renamed coal to "campfire"
 
 Player Heads:
 ══════════════════════════════════════════════
