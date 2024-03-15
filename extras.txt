@@ -20,6 +20,7 @@
 - Nest: dead horn coral fan
 - Pebbles/Rocks: stone button
 - Coal Lumps: polished blackstone button
+- Thatch: bamboo mosaic
 - Hay Patch: yellow carpet
 - Tatami Mat: bamboo mosaic double slab
 - Table: Upper petrified slab `/give @player minecraft:petrified_oak_slab`

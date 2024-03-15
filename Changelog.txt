@@ -2,6 +2,142 @@
 ══════════════════════════════════════════════
 TamrielCraftPack
 Mar 2, 2024
+v1.20.4 / v1.20-3
+
+Updated to Excalibur v1.20.4
+
+BLOCKSTATES
+- Restore grass (For mc1.20-1.20.2)
+
+BLOCKS
+- Remove fix for bamboo_fence_gate_item.json UV mapping (as patched in Excalibur)
+- Restore grass.json (For mc1.20-1.20.2)
+- Remove fix for Stonebrick Wall z-fighting (as patched in Excalibur)
+
+PACK
+- Updated build script
+- Update pack.mcmeta
+- Update ExtraBlocks
+- Update pack.png
+
+OPTIFINE
+- Remove fix for Enchanting Table book (as patched in Excalibur)
+- Remove fix for Lectern book (as patched in Excalibur)
+- Remove fix for Double Chest (as patched in Excalibur)
+
+TEXTURE
+- Restore grass.png, grass0_*.png, grass1-4.png (For mc1.20-1.20.2)
+
+SOUND
+- Update sounds.json to replace main menu music, not append
+- TODO
+	- rename new tracks
+- Merge Excalibur sounds.json into ours
+
+
+══════════════════════════════════════════════	
+March 15, 2024
+V[1.20.4]
+
+	Bug Fixes
+-fixed main menu music
+-fixed short grass blockstate
+-fixed recipe book UI search bar
+-fixed bamboo fence gate UV mapping
+-fixed dripleaf model scaling
+-fixed stonebrick wall z-fighting
+-fixed enchanting and lectern book overlap
+-fixed .properties files for blaze and salmon
+-fixed .properties files for better side grass
+-fixed birch, cherry, and spruce top slabs (Thanks GrandPappyJay!)
+-fixed shadow .mcmeta (Thanks GrandPappyJay!)
+-fixed ETF/EMF chest compatibility (Thanks GrandPappyJay!)
+
+	Entities
+-finished ravager
+-finished warden
+-added ender dragon
+-added bat
+-added axolotls
+-added tropical fish
+-added cats
+-added frogs
+-added tadpole
+-added pandas
+-added conduit
+-added goat
+-added camel
+-added desert villagers
+-added savanna villagers
+-added taiga villagers
+-added jungle villagers
+-added swamp villagers
+-added evoker fangs
+
+	Blocks
+-added cherry sapling
+-added copper bulb
+-added block of raw copper
+-added block of raw iron
+-added lime glazed terracotta
+-added bamboo button
+-added amethyst clusters
+-added structure blocks
+-added froglights
+-added calcite
+-added sculk
+-added sculk vein
+-added sculk catalyst
+-added sculk sensor
+-added sculk calibrated sensor
+-added sculk shrieker
+-added small dripleaf
+-added big dripleaf
+-added spore blossom
+-added brain corals
+-added horn corals
+-added fire corals
+-added tube corals
+-updated bubble corals
+-updated iron door
+-updated oxidized copper colors
+-updated bamboo colors
+-updated bamboo mosaic to bamboo thatch
+
+	Items
+-added nether star
+-added goat horn
+-added echo shard
+-added pointed dripstone
+-added pitcher pod
+-added recovery compass
+-added firework star
+-tweaked compass
+
+	User Interface
+-spliced UI
+-added map
+-added crafter
+-added saturation effect icon
+-added poison effect icon
+-updated stonecutter
+-updated cartography table
+
+
+	Optifine
+-adjusted lilypad color
+-added hide armor (leather)(Hide Helmet, Hide Chestplate, Hide Leggings, Hide Boots)
+-added goat variants
+-added ravager CEM
+-added goat variants
+-added hoglin variant
+-added stone overlay
+-added sculk overlay
+
+
+══════════════════════════════════════════════
+TamrielCraftPack
+Mar 2, 2024
 v1.20-2
 
 MODELS
