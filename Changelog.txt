@@ -1,7 +1,15 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielCraftPack
-Mar 2, 2024
+Mar 15, 2024
+v1.20.4 / v1.20-3 b2
+
+TEXTURE
+- Revert GUI changes
+
+══════════════════════════════════════════════
+TamrielCraftPack
+Mar 15, 2024
 v1.20.4 / v1.20-3 b1
 
 Updated to Excalibur v1.20.4
