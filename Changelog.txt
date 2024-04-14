@@ -1,6 +1,14 @@
 ﻿Changelog
 ══════════════════════════════════════════════
 TamrielCraftPack
+Apr 14, 2024
+v1.20.4 / v1.20-3 b3
+
+MODEL
+- Increase bed head and fixed sizes to be actual
+
+══════════════════════════════════════════════
+TamrielCraftPack
 Mar 15, 2024
 v1.20.4 / v1.20-3 b2
 
