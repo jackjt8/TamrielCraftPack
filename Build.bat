@@ -7,7 +7,7 @@ ECHO TamrielCraftPack Auto Build
 ECHO ===
 ECHO #
 SET "file_copy=Changelog.txt extras.txt pack.mcmeta pack.png README.md"
-SET "optifine_disables= cit ctm\dragonegg foliage\reeds ctm\foliage\sand_snow ctm\glass\white ctm\random\cauldron ctm\random\prismarine ctm\stone\orange_concrete ctm\stone\stone_brick_pillar"
+SET "optifine_disables= cit ctm\dragonegg ctm\foliage\reeds ctm\foliage\sand_snow ctm\glass\white ctm\random\cauldron ctm\random\prismarine ctm\stone\orange_concrete ctm\stone\stone_brick_pillar"
 REM ~~~
 
 REM Find and set Excalibur and Excalibur Extras
