@@ -1,4 +1,119 @@
 ﻿Changelog
+
+══════════════════════════════════════════════
+TamrielCraftPack
+Mar 15, 2024
+v1.21 / 240911
+
+BLOCKS
+- Remove foliage/grass/*.json (mc1.20-mc1.20.2)
+
+BLOCKSTATES
+- Remove grass.json (mc1.20-mc1.20.2)
+
+ITEMS
+
+ENTITIES
+
+LANG
+- Fix customised music discs - re:jukebox_song
+
+PACK
+- Change versioning and how pre-release builds work:
+
+	- Naming/versioning should be `TCP-YYMMDD.revision`
+	
+		ie - 	20[24]/[09]/[11].rev[0] = `TCP-240911.zip`
+				20[24]/[09]/[11].rev[1] = `TCP-240911.1.zip`
+			
+		Revision only shows if multiple versions get released the same day. Probably won't be used.
+	
+		This format is easier to automate and will be sorted/filtered correctly in the filesystem
+	
+	- `Pack.png` does not need to be changed all the time. Just set it to the MC version and use pack.mcmeta / file name to set version. Only update `Pack.png` for `STABLE` releases.
+- Updated readme.md
+- Updated pack.mcmeta for MC 1.21.
+- TODO update Build.bat and/or add Build.py (cross plat)
+
+MISC
+
+MODEL
+
+OPTIFINE
+
+TEXTURES
+- Remove grass textures
+- Remove mc1.20-1.20.2 GUIs.
+- TODO Update main menu background cubemap
+
+SOUND
+- TODO rename new tracks
+- TODO add all more title themes
+- TODO work on Jukebox song definition datapack for custom disc
+
+
+══════════════════════════════════════════════
+Excalibur	
+September 10, 2024
+V[1.21.1]
+
+BLOCKS
+- added chiseled copper
+- added chiseled tuff
+- added chiseled tuff bricks
+- added copper bulb
+- added copper door
+- added copper grate
+- added copper trapdoor
+- added crafter
+- added flow decorated pot
+- added heavy core
+- added guster decorated pot
+- added ominous vault
+- added polished tuff
+- added scrape decorated pot
+- added trial spawner
+- added tuff bricks
+- added vault
+
+ITEMS
+- added breeze rod
+- added bolt smithing template
+- added creator music discs
+- added flow banner pattern
+- added flow smithing template
+- added guster banner pattern
+- added mace
+- added ominous bottle
+- added ominous trial key
+- added precipice music disc
+- added trial key
+
+ENTITIES
+- added bogged
+- added breeze
+
+MISC
+- added bundle UI
+- added featherfall to main menu music
+- added watcher to main menu music
+- added komorebi to main menu music
+
+
+══════════════════════════════════════════════
+Excalibur
+June 2, 2024
+V[1.20.6]
+
+- updated resource pack format
+- updated title logo
+- fixed turtle scute
+
+- added armadillo
+- added dirt variants
+- added wolf variants
+
+
 ══════════════════════════════════════════════
 TamrielCraftPack
 Apr 21, 2024
@@ -13,6 +128,7 @@ MODEL
 OPTIFINE
 - Actually disble `ctm\foliage\reeds`. Build script omitted it.
 
+
 ══════════════════════════════════════════════
 TamrielCraftPack
 Mar 15, 2024
@@ -20,6 +136,7 @@ v1.20.4 / v1.20-3 b2
 
 TEXTURE
 - Revert GUI changes
+
 
 ══════════════════════════════════════════════
 TamrielCraftPack
@@ -52,12 +169,11 @@ TEXTURE
 
 SOUND
 - Update sounds.json to replace main menu music, not append
-- TODO
-	- rename new tracks
 - Merge Excalibur sounds.json into ours
 
 
-══════════════════════════════════════════════	
+══════════════════════════════════════════════
+Excalibur	
 March 15, 2024
 V[1.20.4]
 
@@ -254,6 +370,7 @@ TEXTURE
 - Replaced varioius music disc textures to fit new music
 - Added new main menu background cubemap
 
+
 ══════════════════════════════════════════════
 TamrielCraftPack
 Dec 12, 2023
@@ -261,6 +378,7 @@ v1.20b9
 
 SOUND
 Replace menu3.ogg with TES IV Oblivion OST - Reign of the Septims
+
 
 ══════════════════════════════════════════════
 TamrielCraftPack
@@ -280,6 +398,7 @@ Replace pigstep.ogg (Lena Raine - Pigstep) with Morrowind 2047 by Musicformed
 LANG
 Updated lang files to reflect new music
 
+
 ══════════════════════════════════════════════
 TamrielCraftPack
 Oct 19, 2023
@@ -294,6 +413,7 @@ Replace 5.ogg (Samuel Aberg - 5) with The Wheel (Synthwave Version) by All in Al
 
 LANG
 Updated lang files to reflect new music
+
 
 ══════════════════════════════════════════════
 TamrielCraftPack
@@ -312,6 +432,7 @@ Replace blocks.ogg (C418 - blocks) with a semi-custom TES Surf Album by All in A
 LANG
 Updated lang files to reflect new music
 
+
 ══════════════════════════════════════════════
 TamrielCraftPack
 Oct 17, 2023
@@ -325,6 +446,7 @@ Replace ward.ogg (C418 - ward) with "Running In Circles by Runs-In-Circles" by y
 
 LANG
 Updated lang files to reflect new music
+
 
 ══════════════════════════════════════════════
 TamrielCraftPack
@@ -343,6 +465,7 @@ Replace relic.ogg (Aaron Cherof - Relic) with "Balmora Vice" by young scrolls
 LANG
 Updated lang files to reflect new music
 
+
 ══════════════════════════════════════════════
 TamrielCraftPack
 Sep 14, 2023
@@ -359,6 +482,7 @@ Replaced mall.ogg (C418 - mall) with "Dagothwave by Dagoth Ur" by young scrolls 
 LANG
 Updated lang files to reflect new music
 
+
 ══════════════════════════════════════════════
 TamrielCraftPack
 Sep 11, 2023
@@ -370,6 +494,7 @@ Remove new Prismarine CTM
 MISC
 Updated pack.png
 Added Custom Splashes
+
 
 ══════════════════════════════════════════════
 TamrielCraftPack
@@ -386,7 +511,9 @@ Updated pack.png & added resources to repo
 Added Custom Splashes
 Added Custom Title
 
+
 ══════════════════════════════════════════════
+Excalibur
 August 27, 2023
 V[1.20]
 
@@ -547,7 +674,9 @@ V[1.20]
 -adjusted skeleton model
 -adjusted creepers
 
+
 ══════════════════════════════════════════════		
+Excalibur
 May 3, 2023
 V[1.19.4]
 
@@ -696,6 +825,7 @@ v1.18b3
 Textures
 - Add Masser and Secunda moon phases from lore. Credits to Sover#6150
 
+
 ══════════════════════════════════════════════
 TamrielCraftPack
 Jan 29,2023
@@ -703,6 +833,7 @@ v1.18b2
 
 Models
 - Updated item_frame model to reduce size to 2x2 and translate down into blocks. Should not break anything but should be invisible to an extent.
+
 
 ══════════════════════════════════════════════
 TamrielCraftPack
@@ -734,7 +865,9 @@ Updated textures to be considered
 	texture\block\birch_leaves.png
 	texture\block\leaves_birch_opaque.png
 
+
 ══════════════════════════════════════════════	
+Excalibur
 February 6, 2022
 V[1.18.1]
 
@@ -791,7 +924,9 @@ V[1.18.1]
 -adjusted chorus plant
 -adjusted end sky
 
+
 ══════════════════════════════════════════════
+Excalibur
 December 16, 2021
 V[1.18]
 
@@ -824,6 +959,7 @@ V[1.18]
 -updated birch colormap
 -updated lightmap
 
+
 ══════════════════════════════════════════════
 TamrielCraftPack
 May 3, 2022
@@ -833,6 +969,7 @@ Move to stable release.
 
 Updated pack.png (To v1.17)
 
+
 ══════════════════════════════════════════════
 TamrielCraftPack
 Jan 24, 2021
@@ -840,8 +977,9 @@ v1.17_b1
 	
 Updated to Excalibur v1.17 bringing support for Minecraft 1.17.
 
-══════════════════════════════════════════════
 
+══════════════════════════════════════════════
+Excalibur
 November 28, 2021
 V[1.17]
 
@@ -972,6 +1110,7 @@ V[1.17]
 -adjusted creative UI to promote visibility
 -adjusted recipe book UI
 
+
 ══════════════════════════════════════════════
 TamrielCraftPack
 Jan 24, 2021
@@ -979,7 +1118,9 @@ v1.16_b1
 	
 Updated to Excalibur v1.16 bringing support for Minecraft 1.16.
 
+
 ══════════════════════════════════════════════			
+Excalibur
 January	23, 2021
 V[1.16]
 
@@ -1064,12 +1205,14 @@ V[1.16]
 -updated stripped jungle log
 -updated jungle plank doubleslab top
 
+
 ══════════════════════════════════════════════
 TamrielCraftPack
 Dec 1, 2020
 v1.15_b2
 
 Updated pack.mcmeta for Minecraft 1.16.2–1.16.4.
+
 
 ══════════════════════════════════════════════
 TamrielCraftPack
@@ -1078,7 +1221,9 @@ v1.15_b1
 
 Updated to Excalibur v1.15 bringing support for Minecraft 1.15 and with limited support for 1.16.
 
+
 ══════════════════════════════════════════════			
+Excalibur
 June 17, 2020		
 V[1.15]
 
@@ -1146,6 +1291,7 @@ Important!
 Unfixable
 - z fighting on Shulker Boxes is not fixable due to Minecraft not supporting custom models of these blocks.
 
+
 ══════════════════════════════════════════════
 TamrielCraftPack
 May 19, 2020
@@ -1159,6 +1305,7 @@ TEXTURE
 - Reverted sign.png to v1.12/v1.13 version
 
 Notes - The fix to signs will break when we actually update to MC1.14+ but by this point we would be able to set text colours in the sign.
+
 
 ══════════════════════════════════════════════
 TamrielCraftPack
@@ -1269,7 +1416,8 @@ textures
 		paintings_kristoffer_zetterstrand.png
 
 
-══════════════════════════════════════════════			
+══════════════════════════════════════════════
+Excalibur			
 October 22, 2019		
 V[1.4]		
 
@@ -1442,8 +1590,8 @@ MISC
 
 - Restored MCPatcher and merged with Optifine folder following https://github.com/sp614x/optifine/issues/1557
 
-══════════════════════════════════════════════
 
+══════════════════════════════════════════════
 TamrielCraftPack
 March 4, 2020
 v1.13.1_beta1
@@ -1453,6 +1601,7 @@ BLOCKS
 
 MISC
 - Trimmed MCPatcher folders and additional Junk not required
+
 
 ══════════════════════════════════════════════
 TamrielCraftPack
@@ -1482,6 +1631,7 @@ MISC
  versioning from v1.3 to v1.13.0 to match Minecraft for easier compatibility identification.
 The patch portion of the semantic three-part version will not align with Minecraft's patches.
 
+
 ══════════════════════════════════════════════
 TamrielCraftPack
 February 18, 2020
@@ -1497,6 +1647,7 @@ BLOCKS
 ITEMS
 - "fixed" scale on leaves to ~1.99
 
+
 ══════════════════════════════════════════════
 TamrielCraftPack
 February 8, 2020
@@ -1504,6 +1655,7 @@ February 8, 2020
 
 BLOCKS
 -Reverted gold_block 1.13 textures to 1.12 variants
+
 	
 ══════════════════════════════════════════════
 TamrielCraftPack
@@ -1516,6 +1668,7 @@ ENTITY
 	Phantoms retextured to Cliff Racers
 	Phantom sounds replaced with Cliff Racers
 
+
 ══════════════════════════════════════════════
 TamrielCraftPack
 January 23, 2020
@@ -1523,6 +1676,7 @@ January 23, 2020
 
 BLOCKS
 -Reverted coal_crate to coal_block (part2)
+
 
 ══════════════════════════════════════════════
 TamrielCraftPack
@@ -1536,7 +1690,8 @@ BLOCKS:
         "side": "block/coal_crate" --> "block/coal_block"
         "top": "block/coal_crate_top" --> "block/coal_block"
 		)
-	
+
+
 ══════════════════════════════════════════════
 TamrielCraftPack
 August 20, 2019
@@ -1546,6 +1701,7 @@ BLOCKS:
 -Switched birch_leaves to leaves_notint parent model rather than leaves parent model.
 	(models\block\birch_leaves.json) - Fixes foliage.png being used to tint texture.
 	Retains tips.
+
 
 ══════════════════════════════════════════════
 TamrielCraftPack
@@ -1563,6 +1719,7 @@ ITEMS/ENTITY:
 MISC:
 -Adjusted changelog layout
 
+
 ══════════════════════════════════════════════
 TamrielCraftPack
 August 8, 2019
@@ -1570,6 +1727,7 @@ August 8, 2019
 
 BLOCKS:
 -corrected stone brick stairs corner model not rendering
+
 
 ══════════════════════════════════════════════
 TamrielCraftPack
@@ -1584,6 +1742,7 @@ ITEMS
 
 MISC:
 -updated moon phases
+
 
 ══════════════════════════════════════════════
 ##############################################
@@ -1729,8 +1888,10 @@ MISC:
 -fixed particles
 -updated all models to 1.13 format
 -removed inventory "pop" sound (due to a problem with underwater ambience)
-		
-══════════════════════════════════════════════		
+	
+	
+══════════════════════════════════════════════
+Excalibur		
 December 22, 2017
 V[1.2]
 -updated diamond armor
@@ -1850,7 +2011,9 @@ V[1.2]
 -fixed white reeds
 -updated en_us lang file
 
+
 ══════════════════════════════════════════════
+Excalibur
 August 27, 2016
 [V1.1]
 -fixed daytime skybox
@@ -1869,7 +2032,10 @@ August 27, 2016
 -added Snow Golem
 -added Magma Cube
 
+
 ══════════════════════════════════════════════
+Excalibur
 July 29, 2016
 [V1.0]
 -First official release
+
