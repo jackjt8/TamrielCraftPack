@@ -50,7 +50,7 @@ Decals:
 
 Custom Named Items:
 ══════════════════════════════════════════════
-- Battle Axe: renamed diamond sword to "Diamond Battle Axe"
+- Battle Axe: renamed diamond axe to "Diamond Battle Axe"
 - Divine Chalice: renamed totem of undying to "Divine Chalice"
 - Dragon Slayer Greatsword: renamed iron, diamond, or netherite sword to "Dragon Slayer Greatsword"
 - Excalibur: renamed _material_ sword to "_material_ Excalibur"
