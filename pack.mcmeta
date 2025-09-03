@@ -1,6 +1,15 @@
 {
-  "pack": {
-    "pack_format": 34,
-    "description": "\u00A78TamrielCraftPack \n\u00A7 240911 \u00A78for \u00A76MC 1.21 "
-  }
+	"pack": {
+		"pack_format": 55,
+		"supported_formats": { "min_inclusive": 18, "max_inclusive": 99 },
+		"description": "\u00A78TamrielCraftPack \n\u00A7 240911 \u00A78for \u00A76MC 1.21 "
+	},
+	"overlays": {
+		"entries": [
+			{
+				"directory": "mod_support",
+				"formats": { "min_inclusive": 42, "max_inclusive": 99 }
+			}
+		]
+	}
 }
