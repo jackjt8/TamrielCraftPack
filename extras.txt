@@ -1,6 +1,6 @@
-﻿Extra Blocks:
+Extra Blocks:
 ══════════════════════════════════════════════
-	BLOCKS	
+- Spruce Crate: spruce planks double slab  
 - Jungle Plank Trim: jungle planks double slab
 - Sandstone Bricks: sandstone double slab  
 - Red Sandstone Bricks: red sandstone double slab 
@@ -9,22 +9,23 @@
 - Nether Brick Tiles: nether brick double slab
 - Blackstone Pillar: polished blackstone double slab
 - Prismarine Brick Mosaic: prismarine brick double slab
+- Tatami Mat: bamboo mosaic double slab
+- Copper Pipe: cut copper double slab
+
+- Dirt Slab: lower petrified slab `/give @player minecraft:petrified_oak_slab`
 - Tudor Blocks: light grey/brown glazed terracotta
 - Cracked Stones: silverfish infested blocks
-- Wooden Truss Supports: sideways hopper
-- Carved Wood: brown concrete
-- Mud: brown concrete powder
-- Dirt Slab: lower petrified slab `/give @player minecraft:petrified_wood_slab`
 
-	DECAL
+
+Decals:
 - Nest: dead horn coral fan
 - Pebbles/Rocks: stone button
 - Coal Lumps: polished blackstone button
 - Thatch: bamboo mosaic
 - Hay Patch: yellow carpet
-- Tatami Mat: bamboo mosaic double slab
-- Table: Upper petrified slab `/give @player minecraft:petrified_oak_slab`
+- Table: Upper petrified slab `/give @player minecraft:petrified_oak_slab
 - Gold Lightning Rod: powered lightning rod
+- Large Lantern: beacon
 - Wine Bottle/Cactus Juice: flower pot with cactus
 - Bonsai Tree: flower pot with jungle sapling
 - Wither Rose Case: flower pot with wither rose
@@ -38,27 +39,41 @@
 - Coin Pile/Chicken Feed: gold pressure plate
 - Water Bucket: warped button
 - Lava Bucket: warped button `/setblock ~ ~ ~ minecraft:warped_button[powered=true,face=floor,facing=north]`
-
-Replaced
-	- Tankard/Mug: 1 dead sea pickle 
-	- Glass Bottles/Mason Jars: 2 dead sea pickles
-	- Quill and Parchment: 3 dead sea pickles
-	- Assorted Jars: 4 dead sea pickles
 - Kwama eggs: dead sea pickles
+	Replaced
+		- Tankard/Mug: 1 dead sea pickle 
+		- Glass Bottles/Mason Jars: 2 dead sea pickles
+		- Quill and Parchment: 3 dead sea pickles
+		- Assorted Jars: 4 dead sea pickles
+- Invisible Item Frame: /give @s item_frame[entity_data={id:"item_frame",Invisible:1b}]
 
-Disabled
-	- Chess/Checkers Board: Dark oak pressure plate
 
-DO NOT USE
-	- Invisible Item Frame: `/give @player item_frame{EntityTag:{Invisible:1}}`
+Custom Named Items:
+══════════════════════════════════════════════
+- Battle Axe: renamed diamond sword to "Diamond Battle Axe"
+- Divine Chalice: renamed totem of undying to "Divine Chalice"
+- Dragon Slayer Greatsword: renamed iron, diamond, or netherite sword to "Dragon Slayer Greatsword"
+- Excalibur: renamed _material_ sword to "_material_ Excalibur"
+- Hammer: renamed iron, diamond, or netherite sword, pickaxe, or axe to "_material_ Hammer"
+- Master Sword: renamed diamond sword to "Master Sword"
+- Hood: renamed Carved Pumpkin to "Hood"
+- Straw Hat: renamed Carved Pumpkin to "Straw Hat"
+* Hide Armor: renamed leather armor to "Hide"
+
+Custom Item Frame Display Blocks:
+══════════════════════════════════════════════	
+Items below must be placed in an item frame!
+
+- Round Shield: renamed shield to "Round Shield"
+- Wheel: renamed item frame to "Wheel" or "o"
+- Mirror: renamed white glass pane to "Mirror"
+- Tanning Rack: renamed leather to "Tanning rack"
+- Campfire: renamed coal or charcoal to "Campfire"
+- Sword in Stone: renamed diamond sword to "Diamond Sword In Stone"
 
 
 Player Heads:
 ══════════════════════════════════════════════
-https://minecraft-heads.com/dictionary/tags-grouped
-
-All Minecraft head commands have to be used in command blocks!
-
 - Chests
 https://minecraft-heads.com/custom-heads/decoration/30166-chest
 https://minecraft-heads.com/custom-heads/decoration/2964-chest
@@ -114,10 +129,9 @@ https://minecraft-heads.com/custom-heads/animals/4175-goose
 https://minecraft-heads.com/custom-heads/animals/344-owl
 
 
-Custom characters:
+Custom Characters:
 ══════════════════════════════════════════════		
 https://unicode-table.com/en/
-
 
 Code Name         MOTD code
 ═══════════════════════════
