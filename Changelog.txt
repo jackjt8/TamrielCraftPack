@@ -18,7 +18,8 @@ ITEMS
 ENTITIES
 
 FONT
-- Added planewalker .ttf fonts
+- Added planewalker .ttf fonts to replace default.
+- Added Hayghi Dadric script .ttf to replace alt/Enchanting font. (credits https://github.com/mmillar-bolis/HayghinDaedricFont OFL-1.1 License)
 
 LANG
 - Fixed customised music discs - re:jukebox_song
