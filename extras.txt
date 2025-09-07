@@ -55,7 +55,7 @@ Custom Named Items:
 - Dragon Slayer Greatsword: renamed iron, diamond, or netherite sword to "Dragon Slayer Greatsword"
 - Excalibur: renamed _material_ sword to "_material_ Excalibur"
 - Hammer: renamed iron, diamond, or netherite sword, pickaxe, or axe to "_material_ Hammer"
-- Master Sword: renamed diamond sword to "Master Sword"
+- Master Sword: renamed diamond sword to "Diamond Master Sword"
 - Hood: renamed Carved Pumpkin to "Hood"
 - Straw Hat: renamed Carved Pumpkin to "Straw Hat"
 * Hide Armor: renamed leather armor to "Hide"
