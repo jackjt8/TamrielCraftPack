@@ -17,6 +17,9 @@ ITEMS
 
 ENTITIES
 
+FONT
+- Added planewalker .ttf fonts
+
 LANG
 - Fixed customised music discs - re:jukebox_song
 
