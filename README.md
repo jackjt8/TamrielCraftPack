@@ -70,50 +70,8 @@ Either run `Build.bat` if on Windows OR Manually build:
 	
 ## Common issues
 
-Transparent textures do not display correctly - Minecraft bug tracked via MC-164001. A core-shader is included in this Resource Pack to fix it. You will need a mod like [Transparent (Fabric)](https://modrinth.com/mod/transparent) if you wish to use shaders via Iris as core-shaders get disabled.
+- Transparent textures do not display correctly - Minecraft bug tracked via MC-164001. A core-shader is included in this Resource Pack to fix it. You will need a mod like [Just Make Paintings Transparent](https://modrinth.com/mod/jumapat) or [Transparent (Fabric)](https://modrinth.com/mod/transparent) if you wish to use shaders via Iris as core-shaders get disabled.
 
-
-## Recommended Mods
-
-Recommended that you use a 3rd party launcher with Instance support like Prism. ie different setups of Minecraft each with their own version, mod(pack)(s), servers, etc.
-
-Use [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) OR [Simply Optimized](https://modrinth.com/modpack/sop) as a base mod pack. These mod pack contain everything you need to improve graphics and/or performance with a few QOL mods included.
-
-**Enhanced Block Entities** - This mod will break culling on many blocks though will improve performance.
-
-
-### Distant Horizons
-
-Adds LODs to minecraft. Allows for massively increased render distances without costing too much performance. Works with Iris shaders.
-
-[Link](https://modrinth.com/mod/distanthorizons)
-
-
-### Falling Leaves
-
-Adds falling leaf particle effects to leaf blocks. Looks nice
-
-[Link](https://modrinth.com/mod/fallingleaves)
-
-
-### Nvidium (Experimental)
-
-Uses Nvidia mesh shaders to boost rendering performance and allows increased render distances at minimal cost. Works with Distant Horizons but auto disables for shaders.
-
-[Link](https://modrinth.com/mod/nvidium)
-
-
-### Transparent
-
-This mod fixes a Minecraft bug, MC-164001, where transparent textures do not display correctly.
-
-[Link](https://modrinth.com/mod/transparent)
-
-
-### ViaFabricPlus
-
-Lets you connect to EVERY minecraft server with QoL fixes. Introduces latency so you might not want to use it...
-
-[Link](https://modrinth.com/mod/viafabricplus)
+- More Culling - `BlockState Culling` is known to be problematic on multiple models. Disable it.
 
 

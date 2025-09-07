@@ -5,6 +5,8 @@ TamrielCraftPack
 Mar 15, 2024
 v1.21 / 240911
 
+Updated base to Excalibur v1.21.8
+
 BLOCKS
 - Remove foliage/grass/*.json (mc1.20-mc1.20.2)
 
@@ -33,24 +35,379 @@ PACK
 	- `Pack.png` does not need to be changed all the time. Just set it to the MC version and use pack.mcmeta / file name to set version. Only update `Pack.png` for `STABLE` releases.
 - Updated readme.md
 - Updated pack.mcmeta for MC 1.21.
+- Update and rename ExtraBlocks.txt --> extras.txt
 - TODO update Build.bat and/or add Build.py (cross plat)
 
 MISC
 
 MODEL
+- Patch buggy item_frame.json
+- Patch block.json with slight offset when in item_frame
 
 OPTIFINE
+
+TEXTS
+- Update splashes.txt
 
 TEXTURES
 - Remove grass textures
 - Remove mc1.20-1.20.2 GUIs.
-- TODO Update main menu background cubemap
+- Update main menu background cubemap
+	TODO downscale from 2048 to 1024!
+- Revert shulker_box textures to previous
 
 SOUND
 - TODO rename new tracks
 - TODO add all more title themes
 - TODO work on Jukebox song definition datapack for custom disc
 
+══════════════════════════════════════════════	
+August 18, 2025
+V[1.21.8]
+
+BUGS
+- swapped eye and dune trim item textures
+- renamed skybox legend.properties to legend.txt (Thanks Liski and GrandPappyJay!)
+
+
+BLOCKS
+- added glow lichen variant
+- added netherrack variant
+- added podzol random rotation
+- added oak sapling second stage
+- added spruce sapling second stage
+- updated lilypads with denser variation and subtle color differences
+
+
+ITEMS
+- added dennis painting
+- added lava chicken music disc
+
+
+CUSTOM ITEMS
+- updated custom named items to vanilla format (Thanks GrandPappyJay!)
+- removed carved pumpkin blur for custom carved pumpkin hat visibility
+- added "Hood" carved pumpkin rename
+- added "Straw Hat" carved pumpkin rename
+- added "Wizard Hat" carved pumpkin rename
+- added "Read Headband" carved pumpkin rename
+
+══════════════════════════════════════════════
+June 17, 2025
+V[1.21.6]
+
+BUGS
+- fixed enchanted armor glint
+- fixed moss carpet transparency and optimized model
+- fixed empty bee nest model
+- fixed various missing reference warnings
+- removed peaking pixel on sheep undercoat texture
+- added missing pixels on chicken UV
+
+
+MODDED
+- fixed light blue color properties
+- fixed slime model (Thanks GrandPappyJay!) & added subtle animation
+- fixed temperate pig wrong texture call
+- added sheep undercoat model
+- added subtle crop biome tint color properties
+- added suspicious sand & clay to sand color properties
+- split adult and baby equine models
+- updated appleskin icons
+- updated fabric creative buttons
+
+
+BLOCKS
+- updated brown candle
+- added pale moss carpet model
+- added dry grass
+- added copper pipes (cut copper doubleslab)
+- adjusted pale oak trapdoor
+- updated birch fence inventory model
+- updated leaf litter colormap
+- adjusted cherry leaves
+- added extra glow lichen blockstate models (Thanks GrandPappyJay!)
+- added hanging sculk model
+- added potted torchflower emissive model
+- added hanging flower pots
+- added dried ghast gravestones
+
+
+ITEMS
+- added tears music disc
+- added happy ghast spawn egg
+- added ghast harness
+
+
+ENTITIES
+- updated ghast texture and added custom model
+- added ghast harness
+- added happy ghast
+- added baby ghast
+
+
+OPTIMIZATION
+- updated anvil cullfacing
+- updated bamboo stalk model
+- updated barrel cullfacing 
+- updated bee nest cullfacing
+- updated bookshelf cullfacing 
+- updated button cullfacing 
+- updated cake cullfacing
+- updated campfire cullfacing
+- updated cartography table cullfacing 
+- updated cauldron cullfacing
+- updated crop models
+- updated doors cullfacing
+- updated dripstone cullfacing 
+- updated enchanting table cullfacing
+- updated fence/gate cullfacing 
+- updated glow lichen cullfacing 
+- updated hopper cullfacing 
+- updated iron bars cullfacing
+- updated ladder cullfacing 
+- updated lantern cullfacing 
+- updated leaf litter cullfacing 
+- updated leaf cullfacing
+- updated lever cullfacing 
+- updated lightning rod cullfacing
+- updated mushroom cullfacing
+- updated rail cullfacing 
+- updated sculk vein cullfacing 
+- updated smoker cullfacing 
+- updated TNT cullfacing
+- updated torch cullfacing 
+- updated trapdoor cullfacing 
+- updated tripwire cullfacing 
+- updated vine cullfacing 
+
+══════════════════════════════════════════════
+April 13, 2025
+V[1.21.5_01]
+
+ITEMS
+- added missing suspicious stew fallback model
+- added unique axolotl buckets
+- flipped beetroot & golden carrot eating animation (Thanks GrandPappyJay!)
+
+BLOCKS
+- added brown mushroom variant
+- added red mushroom variant
+- added pale oak doubleslab + CTM
+
+ENTITIES
+- fixed axolotl z-fighting (Thanks GrandPappyJay!)
+- fixed floating mooshroom mushrooms
+
+TEXTS
+- updated advancement title font colors for visibility
+- added entity UI text for boats, minecarts, donkeys, and llamas
+- added missing font color for villager titles
+- added new splashes
+
+MODDED
+- fixed an issue where baby chickens feet were not visible when standing still
+- fixed dwarf villager head model (Thanks GrandPappyJay!)
+- added boat models
+- added cold chicken model w/ variant
+- added cold cow model
+- added cold pig model
+- added connected creaking heart textures for birch, dark oak, oak, and spruce logs (awaiting Continuity/Optifine 1.21.5 update)
+- added duck model (Thanks GrandPappyJay!)
+- added missing wither skeleton skull model
+- added warm chicken model
+- added warm cow model w/ variant
+- added warm pig model w/ variant
+- updated mooshroom model
+- updated temperate chicken model
+- updated temperate cow model
+- updated temperate pig model
+
+- added appleskin mod support
+- added ETF UI support
+- added fabric UI support
+- added iris UI support
+- added jade UI support
+- added modmenu UI support
+- added subtle effects mod support
+
+══════════════════════════════════════════════
+April 1, 2025
+V[1.21.5]
+
+BUGFIXES
+- fixed an issue where shields used 0,0,0 black pixels
+- fixed an issue where the spruce doubleslab called the wrong model
+- fixed an issue where there was a hard edge in the custom skybox
+- fixed mooshroom texture mapping
+- fixed z-fighting on sandstone/mossy/regular stone brick walls
+- added missing creaking heart textures
+- added missing map icons
+- added missing shield banners
+- added missing sniffer CEM
+- added missing waxed copper block UI text
+
+BLOCKS
+- added bush w/ variants
+- added cactus flower w/ custom model
+- added firefly bush
+- added leaf litter
+- added sweet berry pie cake variant
+- added wildflowers
+- adjusted ancient debris
+- updated cake textures and models
+
+ITEMS
+- added blue egg
+- added brown egg
+- added spawn eggs
+- adjusted golden carrot leafs
+- tweaked bowls
+- tweaked cooked cod
+- tweaked cooked salmon
+- updated netherite tool set
+- updated netherite upgrade
+
+VANILLA CUSTOM ITEM TEXTURES
+- added enchanted books
+- added firework rockets
+- added food eating animations
+- added infinity enchanted bow
+- added paintings
+- added suspicious stews
+
+ENTITIES
+- added cold pig
+- added cold chicken
+- added warm pig
+- added warm cow
+- added warm chicken
+- added sheep undercoat
+
+EQUIPMENT
+- moved saddles to equipment folder
+- added wearable carved pumpkin
+- updated carved pumpkin blur UI
+- updated copper trim to exposed copper color palette
+- updated diamond on diamond trim color palette
+- updated gold on gold trim color palette
+- updated iron trim color palettes
+- updated netherite armor color palette
+- updated netherite trim color palettes
+- updated redstone trim color palette
+
+STATUS EFFECTS
+- added absorption
+- added fire resistance
+- added health boost
+- added instant damage
+- added instant health
+- added invisibility
+- added jump boost
+- added levitation
+- added nausea
+- added regeneration
+- added resistance
+
+MODDED
+- added emissive chorus flower
+- added grass side overlay
+- added water drop particle color
+
+══════════════════════════════════════════════
+February 10, 2025
+V[1.21.4]
+
+BUGFIXES
+- moved equipment textures to new folder structure
+- fixed an issue where dark oak boats used an outdated color palette
+- fixed an issue where rabbits used 0,0,0 pixels
+
+BLOCKS
+- adjusted fern saturation by 50%
+- tweaked terracotta color
+- updated dark oak door
+- updated dark oak trapdoor
+- updated cartography table top
+- updated oak log variants to vanilla blockstates
+- updated poppy model
+- updated torchflower to vanilla emissive
+- added chiseled resin bricks
+- added creaking heart
+- added eyeblossom
+- added new paintings (some paintings are WIP or placeholders)
+- added pale hanging moss
+- added pale moss block w/ variant
+- added pale oak door
+- added pale oak fence w/ custom model
+- added pale oak log w/ variants
+- added pale oak planks w/ variants
+- added pale oak pressure plate & button
+- added pale oak sapling
+- added pale oak trapdoor
+- added polished granite top texture
+- added resin block
+- added resin bricks
+- added stripped pale oak log
+
+ITEMS
+- added bordure indented banner pattern
+- added bundles
+- added field masoned banner pattern
+- added pale oak boat
+- added pale oak door
+- added pale oak hanging sign
+- added pale oak sign
+- added resin brick
+- added resin clump
+
+ENTITIES
+- added creaking
+- added unique piglin sword 
+- added unique wither skeleton sword 
+- updated magma cube UV mapping
+- updated wither color palette
+- updated wither skeleton color palette
+
+USER INTERFACE
+- added bundle textures
+- added empty air breathing bubble texture
+- added empty slot textures
+- added tooltip textures
+
+MISC
+- added pale oak leaf particles
+- added resin trim color palette
+- updated extras.txt
+
+MODDED
+- fixed baby chicken model
+- fixed baby zombie model
+- fixed horse model
+- fixed netherrack overlay on ore blocks
+- fixed sweeping edge enchanted book enchantmentID
+- removed redstone.png colormap for Polytone compatibility
+- added breach enchanted book
+- added deepslate overlay
+- added density enchanted book
+- added diamond mastersword CIT
+- added dirt slab variants (petrified_oak_slab:type=bottom)
+- added wind burst enchanted book
+- added biome-specific blue orchids
+- added biome-specific pale creepers
+- added biome-specific pale oak campfire
+- added biome-specific pale pumpkins
+- added biome-specific pale zombies
+
+GRANDPAPPYJAY'S ENTITY OVERHAUL PREVIEW
+- fixed double chest custom model rendering
+- added villager variants (bedrock skintones and dwarves)
+- added wither skeleton scabbard
+
+KNOWN ISSUES
+- modded custom item textures (suspicious stew, firework rocket, paintings)
+- moss carpet transparency
+- pale moss carpet growth vanilla texture
 
 ══════════════════════════════════════════════
 Excalibur	
