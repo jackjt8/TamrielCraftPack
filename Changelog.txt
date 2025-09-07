@@ -59,11 +59,16 @@ SOUND
 - Renamed `menu[1-4].ogg` to fit `tes_[chapter]_[title].ogg`
 - Added `tes_i_main_theme.ogg` as TES I Arena - Main Theme via Roland SC-55 virtual synth
 - Rename/reconvert in stereo `menu2.ogg` to `tes_ii_dag3.ogg` (TES II Daggerfall - Daggerfall Demo Theme (Bonus) DAG_3.MID via Roland SC-55 virtual synth)
+>>> !!! NOTE - Battlespire Main Theme/Intro is compressed AF. Need a remaster/cover and permissions !!!
+- Added `tes_rg_main_theme.ogg` as TES Adventures Redguard - Main Theme
+>>> !!! NOTE - RG Main Theme remasters/covers sound good. Need permissions !!!
 - Rename/reconvert in stereo `menu1.ogg` to `tes_iii_nerevar_rising.ogg` (TES III Morrowind OST - Nerevar Rising)
 - Rename/reconvert in stereo `menu3.ogg` to `tes_iv_reign_of_the_septims.ogg` (TES IV Oblivion OST - Reign of the Septims)
 - Rename/reconvert in stereo `menu4.ogg` to `tes_v_dragonborn.ogg` (TES V Skyrim OST - Dragonborn)
 - Added `tes_o_ost1_t1.ogg` as "For Blood, for Glory, for Honor" (main theme) from TESO OGS
+>>> !!! NOTE - Could add other TESO main themes but maybe set to lower priority? !!!
 - Added `tes_blades_main_theme.ogg` as TES Blades Main Theme
+>>> !!! NOTE - What even is the main theme for Castles? !!!
 - Updated sounds.json to support all tracks; Added "weight" to each main theme for later tuning on probability.
 - TODO work on Jukebox song definition datapack for custom disc
 

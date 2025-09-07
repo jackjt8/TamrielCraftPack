@@ -5,6 +5,7 @@
 		"sounds": [
 		  {"name": "music/menu/tes_i_main_theme", "stream": true, "weight": 1},
 		  {"name": "music/menu/tes_ii_dag3", "stream": true, "weight": 1},
+		  {"name": "music/menu/tes_rg_main_theme", "stream": true, "weight": 1},
 		  {"name": "music/menu/tes_iii_nerevar_rising", "stream": true, "weight": 1},
 		  {"name": "music/menu/tes_iv_reign_of_the_septims", "stream": true, "weight": 1},
 		  {"name": "music/menu/tes_v_dragonborn","stream": true, "weight": 1},
