@@ -3,10 +3,13 @@
 		"replace": true,
 		"category": "music",
 		"sounds": [
-		  {"name": "music/menu/menu1", "stream": true},
-		  {"name": "music/menu/menu2", "stream": true},
-		  {"name": "music/menu/menu3", "stream": true},
-		  {"name": "music/menu/menu4","stream": true}
+		  {"name": "music/menu/tes_i_main_theme", "stream": true, "weight": 1},
+		  {"name": "music/menu/tes_ii_dag3", "stream": true, "weight": 1},
+		  {"name": "music/menu/tes_iii_nerevar_rising", "stream": true, "weight": 1},
+		  {"name": "music/menu/tes_iv_reign_of_the_septims", "stream": true, "weight": 1},
+		  {"name": "music/menu/tes_v_dragonborn","stream": true, "weight": 1},
+		  {"name": "music/menu/tes_o_ost1_t1","stream": true, "weight": 1},
+		  {"name": "music/menu/tes_blades_main_theme","stream": true, "weight": 1}
 		]
 	},
 	
