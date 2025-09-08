@@ -1,0 +1,36 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "minecraft:ttf/falmer.otf",
+      "shift": [0, 0],
+      "size": 11.0,
+      "oversample": 2.0
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:ttf/falmer_italic.otf",
+      "shift": [0, 0],
+      "size": 11.0,
+      "oversample": 2.0,
+      "italic": true
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:ttf/falmer_bold.otf",
+      "shift": [0, 0],
+      "size": 11.0,
+      "oversample": 2.0,
+      "weight": "bold"
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:ttf/falmer_bold_italic.otf",
+      "shift": [0, 0],
+      "size": 11.0,
+      "oversample": 2.0,
+      "weight": "bold",
+      "italic": true
+    }
+  ]
+}

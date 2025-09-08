@@ -18,11 +18,17 @@ ITEMS
 ENTITIES
 
 FONT
-- Added planewalker .ttf fonts to replace default.
-- Added Hayghi Dadric script .ttf to replace alt/Enchanting font. (credits https://github.com/mmillar-bolis/HayghinDaedricFont OFL-1.1 License)
+- Added dovahkiin/dragon, dwemer, falmer, haygindaedric/daedric, and planewalker otf/ttf fonts in `font/ttf/`
+- Added required *.json's for each font
+- Added default.json (maps to planewalker)
+- Added alt.json (enchanting font & maps to daedric) 
 
 LANG
 - Fixed customised music discs - re:jukebox_song
+
+LICENSES
+- Added folder to contain licenses
+- Added font licenses
 
 PACK
 - Change versioning and how pre-release builds work:
@@ -41,7 +47,7 @@ PACK
 - Updated pack.mcmeta for MC 1.21.8.
 - Updated pack.png & add 1.21.8_dev for easy use.
 - Updated and renamed ExtraBlocks.txt --> extras.txt
-- TODO update Build.bat and/or add Build.py (cross plat)
+>>> !!! TODO update Build.bat and/or add Build.py (cross plat)
 
 MISC
 
@@ -75,7 +81,7 @@ SOUND
 - Added `tes_blades_main_theme.ogg` as TES Blades Main Theme
 >>> !!! NOTE - What even is the main theme for Castles? !!!
 - Updated sounds.json to support all tracks; Added "weight" to each main theme for later tuning on probability.
-- TODO work on Jukebox song definition datapack for custom disc
+>>> !!! TODO work on Jukebox song definition datapack for custom disc
 
 ══════════════════════════════════════════════	
 August 18, 2025

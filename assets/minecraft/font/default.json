@@ -1,36 +1,8 @@
 {
   "providers": [
-    {
-      "type": "ttf",
-      "file": "minecraft:planewalker.ttf",
-      "shift": [0, 0],
-      "size": 11.0,
-      "oversample": 2.0
-    },
-    {
-      "type": "ttf",
-      "file": "minecraft:planewalker_italic.ttf",
-      "shift": [0, 0],
-      "size": 11.0,
-      "oversample": 2.0,
-      "italic": true
-    },
-    {
-      "type": "ttf",
-      "file": "minecraft:planewalker_bold.ttf",
-      "shift": [0, 0],
-      "size": 11.0,
-      "oversample": 2.0,
-      "weight": "bold"
-    },
-    {
-      "type": "ttf",
-      "file": "minecraft:planewalker_bold_italic.ttf",
-      "shift": [0, 0],
-      "size": 11.0,
-      "oversample": 2.0,
-      "weight": "bold",
-      "italic": true
-    }
+    { "type": "reference", "id": "minecraft:include/space" },
+    //{ "type": "reference", "id": "minecraft:include/default", "filter": { "uniform": false } },
+	{ "type": "reference", "id": "minecraft:planewalker" },
+    { "type": "reference", "id": "minecraft:include/unifont" }
   ]
 }

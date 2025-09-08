@@ -1,11 +1,8 @@
 {
   "providers": [
     {
-      "type": "ttf",
-      "file": "minecraft:hayghindaedric.ttf",
-      "shift": [0, 0],
-      "size": 11,
-      "oversample": 2.0
+      "type": "reference",
+      "id": "minecraft:daedric"
     }
   ]
 }
