@@ -149,5 +149,6 @@ if __name__ == "__main__":
         hotspot_prob=0.02,
         distortion_strength=0.1,
         num_spiral_layers=4,
+        base_color=(75,15,130),
     )
     portal.generate_portal_sheet()
